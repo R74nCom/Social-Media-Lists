@@ -1,0 +1,125 @@
+User
+	URL:
+		https://www.reddit.com/user/$id
+		https://www.reddit.com/u/$id
+	Text:
+		u/$id
+		/u/$id
+	Examples:
+		Reddit -> reddit
+		Request Bot -> request_bot
+		example_123 -> example_123
+		HasanAbi -> hasanpiker
+		slweeb -> AntisocialWeeb
+Fullname
+	Examples:
+		r/help -> t1_2qh4a
+		u/AntisocialWeeb -> t2_8ke70c2
+		??? Link -> t3_15bfi0
+		Wholesome Award -> t5_22cerq
+Post
+	URL:
+		https://www.reddit.com/comments/$id
+		https://redd.it/$id
+		https://reddit.com/$id
+		https://www.reddit.com/r/$subreddit/comments/$id/
+		https://www.reddit.com/r/$subreddit/comments/$id/$postname
+		https://www.reddit.com/comments/$id/$postname
+		https://www.reddit.com/rpan/r/_/$id
+	Examples:
+		Guardians of the Front Page -> 5gn8ru
+		Thanks, Obama. -> 5bx4bx
+		DEMOCRACY NOW -> cp4sce
+		The Downing Street Memo -> 87
+Post Name
+	URL:
+		https://www.reddit.com/comments/$postid/$id/
+		https://www.reddit.com/r/$subreddit/comments/$postid/$id/
+	Examples:
+		Guardians of the Front Page -> guardians_of_the_front_page
+		Thanks, Obama. -> thanks_obama
+		DEMOCRACY NOW -> democracy_now
+		I drew all the boys together and i did it for the internet -> i_drew_all_the_boys_together_and_i_did_it_for_the
+		1 dad reflex 2 children -> 1_dad_reflex_2_children
+		This is Tiger. He just turned 31. We are told he is the oldest cat in the state of Illinois -> this_is_tiger_he_just_turned_31_we_are_told_he_is
+		30,000 up-votes and this becomes a Lord of The Rings subreddit -> 30000_upvotes_and_this_becomes_a_lord_of_the
+Subreddit
+	URL: https://www.reddit.com/r/$id/
+	Text:
+		r/$id
+		/r/$id
+	Examples:
+		me_irl -> me_irl
+		Minecraft -> Minecraft
+		Copy Paste Dump -> copypastedump
+Default Avatar
+	URL: https://www.redditstatic.com/avatars/avatar_default_$id.png
+	Examples:
+		Pose 01, Color #EA0027 -> 01_EA0027
+		Pose 16, Color #0DD3BB -> 16_0DD3BB
+		Pose 20, Color #7193FF -> 20_7193FF
+		u/reddit -> 05_0DD3BB
+Snoovatar
+	URL: https://i.redd.it/snoovatar/snoovatars/$id.png
+	Examples:
+		u/AntisocialWeeb -> 5a2274d0-e3a0-49cd-8e2b-c8e170d7c876
+		??? -> 1683dbdc-7200-4d1a-beb5-027cb9389791
+		??? -> 7fcfa5c5-1e30-4976-9b3e-afb6ea04b6b1
+Reddit Gold Image
+	URL:
+		https://www.redditstatic.com/gold/awards/icon/$id_512.png
+		https://www.redditstatic.com/gold/awards/icon/$id_256.png
+		https://www.redditstatic.com/gold/awards/icon/$id_144.png
+		https://www.redditstatic.com/gold/awards/icon/$id_64.png
+		https://www.redditstatic.com/gold/awards/icon/$id_32.png
+		https://www.redditstatic.com/gold/awards/icon/$id_16.png
+		https://www.redditstatic.com/gold/awards/icon/$id_256.png
+		https://www.redditstatic.com/gold/awards/icon/$id_256.png
+		https://www.redditstatic.com/gold/awards/icon/$id_256.png
+	Examples:
+		Gold -> gold
+		Silver -> silver
+		Platinum -> platinum
+		Starry -> Starry
+Award Image
+	URL: https://preview.redd.it/award_images/t5_22cerq/$id.png?width=48&height=48&auto=webp&s=$awardid2
+	Examples:
+		Heartwarming -> v1mxw8i6wnf51_Heartwarming
+		All-Seeing Upvote -> rg960rc47jj41_All-SeeingUpvote.png
+		Take My Energy -> 898sygoknoo41_TakeMyEnergy
+Award Image 2
+	URL: https://preview.redd.it/award_images/t5_22cerq/$awardid.png?width=48&height=48&auto=webp&s=$id
+	Examples:
+		Heartwarming -> 8d7c7fa22e6ff3b1b0a347839e42f493eb5f6cbc
+		All-Seeing Upvote -> 0a6fb9ecfb8eee4493afe6c5b234c44eb8413008
+		Take My Energy -> 83038a4d6181d3c8f5107dbca4ddb735ca6c2231
+Chat Room
+	URL:
+		https://www.reddit.com/chat/channel/
+		https://www.reddit.com/chat/channel/
+	Examples:
+		Copy Paste Spam -> 1624585_46d5af0bcf623784d43378e9be87032194a71b36
+		r/instagram main chatroom -> 3389086_e22dcf824a22627bd23631909d1b349285eb0ca0
+Comment
+	URL: https://www.reddit.com/comments/$postid/_/$id/
+	Examples:
+		Most Upvoted Comment -> 5h7gq8
+Message
+	URL: https://www.reddit.com/message/messages/$id
+	Examples:
+		Copy Paste Dump Welcome -> weh81x
+		September 2020 Mod Newsletter -> v3ii5i
+RPAN Stream
+	URL: https://www.reddit.com/rpan/$id
+	Examples:
+		Biking from NY to CA -> k101ml
+
+
+
+
+Subreddit
+Award
+Live Thread
+Emoji
+Post Flair
+User Flair

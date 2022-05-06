@@ -1,0 +1,22 @@
+User
+    URL:
+        https://tenor.com/users/$id
+        https://tenor.com/official/$id
+    Examples:
+        slweeb -> slweeb
+        caj380 -> caj380
+        Minka Comics -> madebyminka
+        JenniferLong1 -> jenniferlong1
+        аааяфа -> аааяфа
+        Hannah_Martin -> hannah_martin
+        AndréPT -> andrépt
+        Jota_ -> jota_
+        ab -> ab
+        Drake -> drake
+GIF
+    URL: https://tenor.com/view/$id
+    Examples:
+        Drake Clapping -> 5105344
+        Awkward Cat -> 23535875
+        RIP Bozo -> 20309754
+        Deal With It Doge -> 9823664

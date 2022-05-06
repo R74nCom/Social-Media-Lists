@@ -1,0 +1,175 @@
+Video
+	URL:
+		https://www.youtube.com/watch?v=$id
+		https://youtu.be/$id
+		http://www.youtube.com/shorts/$id
+		https://www.youtube.com/embed/$id
+	Examples:
+		Baby Shark Dance -> XqZsoesa55w
+		Me at the zoo -> jNQXAC9IVRw
+		YouTube Answers: Ads & Advertising -> jF--uLxtYlo
+		The Making of YouTube -> X2N_V2dfS1U
+Thumbnail
+	URL:
+		https://i.ytimg.com/vi/$video/hqdefault.jpg
+		https://i.ytimg.com/vi/$video/movieposter.jpg
+Username
+	URL:
+		https://www.youtube.com/$1
+		https://www.youtube.com/user/$1
+		https://www.youtube.com/c/$1
+	Examples:
+		YouTube -> YouTube
+		T-Series -> tseries
+		PewDiePie -> PewDiePie
+		Live -> live
+Channel
+	URL:
+		https://www.youtube.com/channel/$id
+		https://music.youtube.com/channel/$id
+		https://tv.youtube.com/browse/$id
+	Examples:
+		YouTube -> UCBR8-60-B28hp2BmDPdntcQ
+		PewDiePie -> UC-lHJZR3Gqxm24_Vd_AJ5Yw
+		Among Us -> UCn0QAnNB_vHr7Pry3Vo72lg
+		Learning -> UCtFRv9O2AHqOZjjynzrv-xg
+		Music -> UC-9-kyTW8ZkZNDHQJ6FgpwQ
+		90 Day Fiancé -> UCBYU5KZQVWu4RUiLdYq2TdA
+		Movies & Shows -> UClgRkhTL3_hImCAmdLfDE4g
+		Live -> UC4R8DWoMoI7CAwX8_LjQHig
+		Fashion & Beauty -> UCrpQ4p1Ql_hG8rKXIKM1MOQ
+		Minecraft -> UCQvWX73GQygcwXOTSf_VDVg
+		英傑大戦 -> UCRjh18dOrh14DhEgIhZs0fg
+		Gaming -> UCOpNcN46UbXVtpKMrmU4Abg
+		Sports -> UCEgdi0XIXXZ-qJOFPf4JSKw
+		News -> UCYfdidRxbB8Qhf0Nx7ioOYw
+		Sports News -> UCEl0qh9X3kuL1RdFHng497Q
+		Entertainment News -> UCiiEf9oJvxfMfyJisqyD3BA
+		Business News -> UCQxtLzG3ckdfsnxd8MDfx2g
+		Technology News -> UClnA6kw0Qb_Cn-ersL7xg7A
+		World News -> UCvAvFl2OGsuDSoOo93Kd0nA
+		National News -> UCcE169gw8kJCzyCJZXb7DQw
+		Science News -> UC4WPFQWSvsDuUKsIjXrgCEw
+		Health News -> UCn371zWk5jljg-ycIXkEUSA
+		Chinese Chess -> UCIXWEteJyWRIOSjhM7dxWpg
+Channel Avatar
+	URL: https://yt3.ggpht.com/ytc/$id
+	Examples:
+		slweeb -> AKedOLQE6h1l13YHlgPfE0MMchFRjSEF1taL9ZLYu16rww
+		Atrioc -> AKedOLRwdqnYUz9wlA6ic932Jn57P-RtojCHCjl9g1Xfgw
+Community Post
+	URL: https://www.youtube.com/post/$id
+	Examples:
+		YouTube Rewind 2018 -> UgzKGgpYuYoKXYiShrB4AaABCQ
+		Lessons in Meme Culture -> UgwQWzQ_3-PB3dE4EwB4AaABCQ
+		Fireship Poll -> UgkxbO878zsqhMZAKQ-qM9TGtqzv0PhFGNKU
+Community Post Comment
+	URL: https://www.youtube.com/channel/$channel/community?lc=$id&lb=$post
+	Examples:
+		Random -> Ugw8yvXTGb5BqZPAP-B4AaABAg
+Community Post Comment Reply
+	URL: https://www.youtube.com/channel/$channel/community?lc=$comment.$id&lb=$post
+	Examples:
+		Random -> 9_FQDM_cFJQ9_FSBNnakUr
+Comment
+	URL: https://www.youtube.com/watch?v=$video&lc=$id
+	Examples:
+		??? -> Ugwd-0_9_clLD2l2dZZ4AaABAg
+		i'm the balf guy -> Ugyb0OkJoZemhn5BD194AaABAg
+Comment Reply
+	URL: https://www.youtube.com/watch?v=$video&lc=$comment.$id
+	Examples:
+		The Couch tho xD -> 8tqQHzEv5Ju8tqWon2vPGa
+Playlist
+	URL: https://www.youtube.com/playlist?list=$id
+	Examples:
+		New Music Releases -> PLbpi6ZahtOH6ABXapjA_NoPqYQZxvbX-i
+		Liked Videos -> LL
+		Watch Later -> WL
+		Live Now - News -> PL3ZQ5CpNulQmA2Tegc98c0XXJTzuKb0wS
+		Featured Live Streams -> PLU12uITxBEPF8XZZj4LudutrjxKqh_gtQ
+		Recent Live Streams -> PLU12uITxBEPFteq84ODnPRJjskBgVQC2M
+		Upcoming Live Streams -> PLU12uITxBEPHHlOIWGAIezbshH82rGpKp
+		Live Now -> PLU12uITxBEPHOJO1FU8qll6gQmKcXp5S7
+		Live Now - Gaming -> PLiCvVJzBupKmEehQ3hnNbbfBjLUyvGlqx
+		Live Now - Sports -> PL8fVUTBmJhHKq0MhIplzljtGhHN2E_jk0
+Trending Topic
+	URL: https://www.youtube.com/feed/trending?bp=$id
+	Examples:
+		Music: 4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbVBud2pLbmNhZUp3MDYzZlU1M3Q0cA%3D%3D
+		Gaming: 4gIvCgkvbS8wYnp2bTISIlBMaUN2Vkp6QnVwS2tDaFNnUDdGWFhDclo2aEp4NmtlTm0%3D
+		News: 4gIuCggvbS8wNWpoZxIiUEwzWlE1Q3BOdWxRbUtPUDNJekdsYWN0V1c4dklYX0hFUA%3D%3D
+		Movies: 4gIuCggvbS8wMnZ4bhIiUEx6akZiYUZ6c21NUnFhdEJnVTdPeGNGTkZhQ2hqTkVERA%3D%3D
+		Music: 4gINGgt5dG1hX2NoYXJ0cw%3D%3D
+		Gaming: 4gIcGhpnYW1pbmdfY29ycHVzX21vc3RfcG9wdWxhcg%3D%3D
+		Movies: 4gIKGgh0cmFpbGVycw%3D%3D
+		Explore: 6gQJRkVleHBsb3Jl
+Storefront
+	URL: https://www.youtube.com/feed/storefront?bp=$id
+	Examples:
+		Movies & Shows -> ogUCKAU%3D
+		Movies & Shows (2) -> ogUCKAI%3D
+		Purchased Movies & Shows -> ogUCKAQ%3D
+Shelf ID
+	Examples:
+		Today's Biggest Hits -> 9391047414522202186
+		Fun Throwbacks -> 4079637171194601392
+Search Filter
+	URL: https://www.youtube.com/results?sp=$id
+	Examples:
+		Live -> EgJAAQ%253D%253D
+		360° -> EgJ4AQ%253D%253D
+		Movie -> EgIQBA%253D%253D
+		This week -> EgIIAw%253D%253D
+		View count -> CAMSAhAB
+		Relevance -> CAASAhAB
+		Long (> 20 minutes) -> EgIYAg%253D%253D
+User ID
+	Examples:
+		K4_hyKr7fJoVTof2r9Pgyd
+Emote
+	URL: https://yt3.ggpht.com/$id
+	Examples:
+		_SalC1Logo -> 2KIm6PPi1l_4zmkEmQM-HQ1VqvR1qw6K87NsLteKAMPfiSyRDQ6NiFjd-jWmHR1euCuC_Pno
+		yt -> m6yqTzfmHlsoKKEZRSZCkqf6cGSeHtStY4rIeeXLAk4N9GY_yw3dizdZoxTrjLhlY4r_rkz3GA
+		wormRedBlue -> QZNullRD8CZ1PZfgbRnc0bHPg3STRXkYb0BEUgW7MGTx2H1QmRr1UB4nlBh1lmA3Le1eHGH9
+Emoji
+	URL: youtube.com/s/gaming/emoji/9cda877f/emoji_u$id.svg
+	Examples:
+		🦐 -> 1f990
+		👨‍❤️‍💋‍👨 -> 1f468_200d_2764_200d_1f48b_200d_1f468
+		👩‍👩‍👧‍👦 -> 1f469_200d_1f469_200d_1f467_200d_1f466
+		♾ -> 267e
+Clip
+	URL: https://www.youtube.com/clip/$id
+	Examples:
+		Elon Musk Saying "And I Stan You" -> UgxhDOoUKXu7QoqNuoN4AaABCQ
+		Official Example Clip -> Ugy_cLL4zv3uhsUupdN4AaABCQ
+Event
+	URL: https://www.youtube.com/?bp=$id
+	Examples:
+		Earth Day 2022 -> wgUCEAE%3D
+TV Episode
+	URL: https://tv.youtube.com/watch/$id
+	Examples:
+		90 Day Fiancé S9 E1 -> TqHeHU7xsMI
+TV Show
+	URL: https://www.youtube.com/show/$1
+	Examples:
+		Caprica -> SCblWPyR_Yxqt7KXXACQV_Eg
+Provider
+	URL: https://www.youtube.com/results?search_query=$query&sp=$1
+	Examples:
+		NBC Universal -> EhMQBLIBC05CQ1VuaXZlc2Fs4AEB
+Support Topic
+	URL: https://support.google.com/youtube/topic/$1
+	Examples:
+		Purchase and watch movies and TV shows -> 9257105
+		Learn why comments are turned off -> 9706180
+		What is an Art Track? -> 6007071
+		Takedowns -> 3506116
+		Upload videos -> 16547
+Help Community Thread
+	URL: https://support.google.com/youtube/thread/$1
+	Examples:
+		It’s here! The YouTube Shorts Fund 💰 -> 119786698

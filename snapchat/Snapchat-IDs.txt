@@ -1,0 +1,47 @@
+Username
+	URL:
+		https://www.snapchat.com/add/$id
+		https://story.snapchat.com/s/$id
+	Examples:
+		Ed Sheeran -> teddysdaytoday
+		Charli D'amelio -> damelioc
+		Addison Rae -> addison_e
+		Leigh-Anne Pinnock -> leigh-annepinn
+		Selena Gomez -> SelenaGomez
+		Chris Hughes -> hchris22
+		Harry Styles -> h.estyles
+Lens
+	URL: https://www.snapchat.com/unlock/?uuid=$id
+	Examples:
+		Green Screen -> 6f6209541b754b0c9d253d2eeac478e3
+Snap Map Story
+	URL: https://map.snapchat.com/ttp/snap/$id
+	Examples:
+		Example 1 -> W7_EDlXWTBiXAEEniNoMPwAAYctREae7WgQW9AXbpT9doAXbpT9aQAO1OAA
+Publication
+	URL: https://story.snapchat.com/p/$id
+	Examples:
+		Bitmoji Stories -> 70a07d04-60c2-4d35-8d93-7acc1d93db7d
+		Team Snapchat -> 8af53eee-e298-40c4-9d6e-af20cf881b61
+Publication Redirect
+	URL: https://www.snapchat.com/discover/$id
+	Examples:
+		Team Snapchat -> Team_Snapchat/7576245069
+Organization
+	URL: https://create.snapchat.com/org/$id
+	Examples:
+		Example 1 -> 7a9ea655-deb1-80c4-2fa2-ce2cadbb5db8
+Support Article
+	URL:
+		https://support.snapchat.com/a/$id
+		https://support.snapchat.com/article/$id
+	Examples:
+		Privacy -> privacy-settings2
+		Stories -> discover
+		About Reporting Infringement -> infringement-reporting-about
+		Snap Map Location Settings -> snap-map-location-settings
+		Delete My Account -> delete-my-account1
+App
+	URL: https://kit.snapchat.com/manage/apps/$id
+	Examples:
+		??? -> 1421a3f1-6f7e-9497-a5da-84cdd0f7833d

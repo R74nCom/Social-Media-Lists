@@ -1,0 +1,19 @@
+Page / Profile
+    URL: https://www.facebook.com/$id
+    Examples:
+        Bernie Sanders -> berniesanders
+        Facebook App -> facebookapp
+        5-Minute Crafts -> 5min.crafts
+        Samsung -> SamsungUS
+        Amber Lopez -> 100008974626919
+        R74n -> R74n-106371942050914
+Group
+    URL: https://www.facebook.com/groups/$id
+    Examples:
+        oddly specific playlists -> oddlyspecificplaylists
+        Porter Robinson Potaroposting -> 729663617171449
+        Useless, Unsuccessful, and/or Unpopular Signage -> UUUSignage
+Post
+    URL: https://www.facebook.com/$id
+    Examples:
+        Starbucks -> 10160259466513057

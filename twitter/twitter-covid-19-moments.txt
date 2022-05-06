@@ -1,0 +1,92 @@
+// Twitter Live moments for COVID-19 updates by location
+// https://twitter.com/explore/tabs/covid-19
+
+United States: https://twitter.com/i/events/1240677133971644419
+Alaska: https://twitter.com/i/events/1331200827915005954
+Alabama: https://twitter.com/i/events/1328720913425022976
+Arkansas: https://twitter.com/i/events/1334526546623664128
+Arizona: https://twitter.com/i/events/1334517345327349764
+California: https://twitter.com/i/events/1334530931114221571
+Colorado: https://twitter.com/i/events/1334537195617570816
+Connecticut: https://twitter.com/i/events/1334542903163514882
+Washington, DC: https://twitter.com/i/events/1334537456754941953
+Delaware: https://twitter.com/i/events/1334564856427544578
+Florida: https://twitter.com/i/events/1334569908974223363
+Georgia: https://twitter.com/i/events/1334573670321201152
+Hawaii: https://twitter.com/i/events/1334578237335248896
+Iowa: https://twitter.com/i/events/1334903726906097667
+Idaho: https://twitter.com/i/events/1334813855738806275
+Illinois: https://twitter.com/i/events/1334817169054388224
+Indiana: https://twitter.com/i/events/1334895947080318977
+Kansas: https://twitter.com/i/events/1335216718130466817
+Kentucky: https://twitter.com/i/events/1335221315641384962
+Louisiana: https://twitter.com/i/events/1335330157045764098
+Massachusetts: https://twitter.com/i/events/1336223709187588097
+Maryland: https://twitter.com/i/events/1335668630273445888
+Maine: https://twitter.com/i/events/1335662859028582401
+Michigan: https://twitter.com/i/events/1336230452022005760
+Minnesota: https://twitter.com/i/events/1336234857978941440
+Missouri: https://twitter.com/i/events/1336247312268455937
+Mississippi: https://twitter.com/i/events/1336238643921371137
+Montana: https://twitter.com/i/events/1336253808674963456
+North Carolina: https://twitter.com/i/events/1336325655697354758
+North Dakota: https://twitter.com/i/events/1336332409499910149
+Nebraska: https://twitter.com/i/events/1336265878296379392
+New Hampshire: https://twitter.com/i/events/1336301095509848065
+New Jersey: https://twitter.com/i/events/1336307185442115584
+New Mexico: https://twitter.com/i/events/1336315249524236290
+Nevada: https://twitter.com/i/events/1336274103183892480
+New York: https://twitter.com/i/events/1336319369870098436
+Ohio: https://twitter.com/i/events/1336341020011765761
+Oklahoma: https://twitter.com/i/events/1336345282418655238
+Oregon: https://twitter.com/i/events/1336351394853318658
+Pennsylvania: https://twitter.com/i/events/1336355736478048256
+Rhode Island: https://twitter.com/i/events/1336353031013584896
+South Carolina: https://twitter.com/i/events/1336349533983272965
+South Dakota: https://twitter.com/i/events/1336331688645853190
+Tennessee: https://twitter.com/i/events/1336319562074091522
+Texas: https://twitter.com/i/events/1336215280532422656
+Utah: https://twitter.com/i/events/1336209292186112007
+Virginia: https://twitter.com/i/events/1334546753442390019
+Vermont: https://twitter.com/i/events/1334897848668700672
+Washington: https://twitter.com/i/events/1334541747678941186
+Wisconsin: https://twitter.com/i/events/1334526928989028353
+West Virginia: https://twitter.com/i/events/1334531851692609536
+Wyoming: https://twitter.com/i/events/1334516729670557696
+
+Australia: https://twitter.com/i/events/1242311410245222400
+New South Wales: https://twitter.com/i/events/1405366976071954434
+Victoria: https://twitter.com/i/events/1396989975799861249
+
+Canada: https://twitter.com/i/events/1242887207863472128
+
+Hong Kong: https://twitter.com/i/events/1235630499529277441
+Thailand: https://twitter.com/i/events/1240300661364772864
+South Korea: https://twitter.com/i/events/1233402900467965952
+Philippines: https://twitter.com/i/events/1240294719365636097
+Indonesia: https://twitter.com/i/events/1240622008125161472
+Malaysia: https://twitter.com/i/events/1240276060383498240
+Taiwan: https://twitter.com/i/events/1243537908746694656
+Netherlands: https://twitter.com/i/events/1244645077797851137
+Singapore: https://twitter.com/i/events/1235619106151227393
+Chile: https://twitter.com/i/events/1246002780138917890
+Ghana: https://twitter.com/i/events/1256229081625931776
+Kenya: https://twitter.com/i/events/1256247603525636096
+Vietnam: https://twitter.com/i/events/1257607321129119748
+Kuwait: https://twitter.com/i/events/1240634806511136768
+Nigeria: https://twitter.com/i/events/1256222945887703040
+New Zealand: https://twitter.com/i/events/1243034670763094016
+Qatar: https://twitter.com/i/events/1256227378902077440
+Belgium: https://twitter.com/i/events/1242780810790326275
+South Africa: https://twitter.com/i/events/1241055300746002433
+Turkey: https://twitter.com/i/events/1243513072792113152
+Jordan: https://twitter.com/i/events/1240677924560228354
+Pakistan: https://twitter.com/i/events/1256226526724415488
+Switzerland: https://twitter.com/i/events/1239968392603299841
+Mexico: https://twitter.com/i/events/1242871019179618304
+Argentina: https://twitter.com/i/events/1242881555564879872
+Spain: https://twitter.com/i/events/1240673023692124160
+Colombia: https://twitter.com/i/events/1242877452512145416
+Egypt: https://twitter.com/i/events/1242869515186135040
+Saudi Arabia: https://twitter.com/i/events/1242866699751182336
+United Arab Emirates: https://twitter.com/i/events/1242863552228024320

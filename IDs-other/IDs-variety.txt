@@ -1,0 +1,42 @@
+1UpCoin User: https://1upcoin.com/donate/$1
+Pastebin Paste: https://pastebin.com/$1
+Pastebin User: https://pastebin.com/u/$1
+Streamlabs User: https://streamlabs.com/$1
+Streamlabs Shortened URL: https://strms.net/$1
+Displate User: https://displate.com/$1
+Displate Referral Code: https://displate.com/?art=$1
+Gfuel Referral Code: http://gfuel.ly/$1
+Amazon Shortened URL: http://amzn.to/$1
+Enlisted Referral Code: https://wehy.pe/t/2/$1
+Loaded Shortened URL: https://load.gg/$1
+Nitrado Referral Code: http://nitra.do/$1
+Chipotle Referral Code: https://chip.tl/$1
+Teespring Store: https://teespring.com/stores/$1
+Patreon User: https://www.patreon.com/$1
+Smoking Frog Referral Code: https://smokingfrog.com/discount/$1
+GamerSupps Referral Code: http://gamersupps.gg/?afmc=$1
+HelloFresh Discount Code: https://www.hellofresh.com/plans?c=$1
+Chess.com Shortened URL: https://go.chess.com/$1
+Chess.com Referral ID: https://www.chess.com/membership?ref_id=$1
+Chess House Page: https://www.chesshouse.com/$1
+Artesian Affiliate: https://artesianbuilds.com/gaming/?aff=$1
+Toonation User: https://toon.at/donate/$1
+Twip User: http://twip.kr/donate/$1
+BetterHelp Referral Code: https://www.betterhelp.com/start/?go=true&utm_campaign=$1
+The Powder Toy Save: https://powdertoy.co.uk/Browse/View.html?ID=$1
+The Power Toy User: https://powdertoy.co.uk/User.html?Name=$1
+R74n HD Minecraft Head: https://r74n.com/mc/heads?$1
+R74n Emoji Art Piece: https://r74n.com/emojiart?$1
+R74n R74moji Code: https://r74n.com/moji/png/$1.png
+Wings.io Room: http://wings.io/#$1
+surviv.io User: https://surviv.io/stats/$1
+surviv.io Room: https://surviv.io/#$1
+Zendesk: https://$1.zendesk.com/
+Guilded Invite: https://www.guilded.gg/i/$1
+Guilded Server: https://www.guilded.gg/$1
+Guilded User: https://www.guilded.gg/profile/$1
+Guilded Post: https://www.guilded.gg/p/$1
+Etsy Shop: https://www.etsy.com/shop/$1
+GAME FUEL Partner: https://gamefuel.com/blogs/partners/$1
+HelloFresh Discount Code: https://www.hellofresh.com/plans?c=$1
+Linktr.ee Page: https://linktr.ee/$1

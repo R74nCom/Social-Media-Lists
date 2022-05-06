@@ -1,0 +1,168 @@
+Abbreviation
+	URL: https://www.abbreviations.com/term/$id
+	Examples:
+		LOL - Laugh Out Loud -> 126
+		COVID-19 - COrona VIrus Disease 2019 -> 2192794
+		AL - Alabama -> 1
+		EN-GB - English (United Kingdom) -> 2221806
+		NCPP - New Cinema Partners, Inc. -> 10000
+Abbreviation Category
+	URL: https://www.abbreviations.com/category/$id
+	Examples:
+		Academic & Science -> SCIENCE
+		Community -> COMMUNITY
+		Governmental -> GOVERNMENTAL
+		Miscellaneous -> MISCELLANEOUS
+		Medical -> MEDICAL
+		Business & Finance -> BUSINESS
+		Computing -> COMPUTING
+		Internet -> INTERNET
+		Regional -> REGIONAL
+		International -> INTERNATIONAL
+Abbreviation Subcategory
+	URL: https://www.abbreviations.com/acronyms/$id
+	Examples:
+		Computing -> COMPUTING
+		DOS Commands -> DOS
+		Artificial Intelligence -> AI
+		MIME Types -> MIMETYPES
+		Telephone Country Codes -> PHONECODES
+		Sci-Fi -> SCIFI
+		Days Abbreviations -> DAYSABBRE
+		General Computing -> GENERALCOMP
+		Subdivisions -> SUBDIVISIONS
+Anagram
+	URL: https://www.anagrams.net/term/$id
+	Examples:
+		the eyes / they see -> 32371321
+		aal / ala -> 1
+		abe / bae -> 10000
+		yarn / ryan -> 32371298
+		coronavirus / carnivorous -> 32371364
+		covid / do vic -> 3175008
+Anagram Category
+	URL: https://www.abbreviations.com/category/$id
+	Examples:
+		Around the World -> WORLD
+		Authors & Books -> AUTHORS
+		Celebrities -> CELEBRITIES
+		Movies -> MOVIES
+		Sound of Music -> MUSIC
+		Arts & Artists -> ART
+		Bits & Bobs -> BITS
+		Food & Drink -> FOOD_DRINK
+		Political Life -> POLITIC
+		Sports -> SPORT
+Anagram Subcategory
+	URL: https://www.abbreviations.com/subcategory/$id
+	Examples:
+		Fashion Designers -> FASHION_DESIGNERS
+		American Politicians 60's & 70's -> AMERICAN_POLITICIANS_60_70
+		Cars -> CARS
+		Childrens Writers -> CHILDREN
+Biography Person
+	URL: https://www.biographies.net/people/$id
+	Examples:
+		Karl Marx -> karl_marx
+		Barack Obama -> barack_obama
+Biography Category
+	URL: https://www.biographies.net/category/$id
+	Examples:
+		Singer -> Singer
+		Businessperson -> Businessperson
+		Him/Herself -> Him/Herself
+		Tennis Tournament Champion -> Tennis Tournament Champion
+		Singer-songwriter -> Singer-songwriter
+Calculator
+	URL: https://www.calculators.net/calculators/$id
+	Examples:
+		Rectangle Area -> rectangle-area
+		Cosine -> cos
+		Rectangular Prism Area -> rectangular-prism-volume
+		Love -> love
+		Root -> root
+		Tangent -> tan
+		Sine -> sin
+Conversion
+	URL:
+		https://www.convert.net/$categoryid/from//$id/to/
+		https://www.calculators.net/$categoryid/from//$id/to/
+	Examples:
+		gigabytes -> GIGABYTE
+		terabits -> TERABITS
+		miles / hour -> MILESHR
+Conversion Category
+	URL:
+		https://www.convert.net/category/$id
+		https://www.calculators.net/category/$id
+	Examples:
+		Length -> LENGTH
+		Weight -> WEIGHT
+		Velocity -> VELOCITY
+		Angles -> ANGLES
+		Number Systems -> NUMBER_SYSTEMS
+		Time Zones -> TIME_ZONES
+		Area -> AREA
+		Time -> TIME
+		Temperature -> TEMPERATURE
+		Power -> POWER
+		Data Storage -> DATA_STORAGE
+		Cooking -> COOKING
+		Math -> MATH
+Math Article
+	URL: https://www.calculators.net/article/$id
+	Examples:
+		Digits of Pi (3.14...) -> digits-of-pi-(3.14...)
+Math Exercise
+	URL: https://www.calculators.net/exercise/$id
+	Examples:
+		Addition -> addition
+		Decimal -> decimal
+		Division -> division
+		Fraction -> fraction
+		Multiplication -> multiplication
+		Substraction -> substraction
+Math Worksheet
+	URL: https://www.calculators.net/worksheet/$id
+	Examples:
+		Addition -> addition
+		Decimal -> decimal
+		Division -> division
+		Fraction -> fraction
+		Multiplication -> multiplication
+		Substraction -> substraction
+Definitions Article
+	URL: https://www.definitions.net/article/$id
+	Examples:
+		How many new words can you learn? -> how_many_new_words_can_you_learn_per_month
+		9 Reasons Not to Stop Yourself from Writing -> 9_reasons_not_to_stop_yourself_from_starting
+
+
+
+
+
+
+
+Comment
+	URL: https://$website/$page#comment-$id
+	Examples:
+		You're most welcome, R.A.Simi! -> 54799
+		Good to hear that! -> 56209
+User
+	URL:
+		https://www.stands4.com/user/$id
+		https://www.abbreviations.com/user/$id
+		https://www.abbr.com/user/$id
+		http://www.standsfor.com/user/$id
+		https://www.anagrams.net/user/$id
+		https://www.biographies.net/user/$id
+		https://www.calculators.net/user/$id
+		https://www.convert.net/user/$id
+		https://www.definitions.net/user/$id
+	Examples:
+		ryan_1 -> 7925
+		rinat -> 1
+		acronimous -> 2
+		exampleuser1 -> 113876
+		S4Bot -> 13114
+

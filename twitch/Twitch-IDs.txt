@@ -1,0 +1,219 @@
+Drops
+	URL: https://www.twitch.tv/drops/campaigns?dropID=$id
+	Regex: [a-zA-Z0-9]+\-[a-zA-Z0-9\-]+
+	Examples:
+		GlitchCon Exclusive Emotes -> 8dddd325-b33f-4465-b0b5-d8948c8c47fc
+Category / Game
+	URL: https://www.twitch.tv/directory/game/$id
+	Regex: .+
+	Examples:
+		Just Chatting -> Just Chatting
+		Among Us -> Among Us
+		Music -> Music
+		Fall Guys: Ultimate Knockout -> Fall Guys: Ultimate Knockout
+		Software and Game Development -> Software and Game Development
+		Art -> Art
+		Food & Drink -> Food & Drink
+		Makers & Crafting -> Makers & Crafting
+		Beauty & Body Art -> Beauty & Body Art
+		Pools, Hot Tubs, and Beaches -> Pools, Hot Tubs, and Beaches
+Stream Tag
+	URL: https://www.twitch.tv/directory/all/tags/$id
+	Regex: [a-zA-Z0-9]+\-[a-zA-Z0-9\-]+
+	Examples:
+		Anime -> 6606e54c-f92d-40f6-8257-74977889ccdd
+		Squad Stream -> 2a14b52e-d459-4c92-be11-5d86b898f6b6
+		Japanese -> 6ba1d230-e52f-4d81-b1e0-41f25a8a9f5d
+		Game Show -> 6a0c6ea2-84eb-42b1-a8bb-59fd684bfe1a
+		English -> 6ea6bca4-4712-4ab9-a906-e3336a9d8039
+Category Tag
+	URL: https://www.twitch.tv/directory/tags/$id
+	Regex: [a-zA-Z0-9]+\-[a-zA-Z0-9\-]+
+	Examples:
+		RPG -> 9d38085e-ee62-4203-877b-81797052a18b
+		Indie Game -> d72d9de6-1df8-4c4e-b6a2-74e6f4c80557
+		Driving/Racing Game -> f5ed5bd0-78cb-4467-8e13-9172a210b64d
+		IRL -> 2610cff9-10ae-4cb3-8500-778e6722fbb5
+Emote
+	URL:
+		https://static-cdn.jtvnw.net/emoticons/v1/$id/1.0
+		https://static-cdn.jtvnw.net/emoticons/v1/$id/2.0
+		https://static-cdn.jtvnw.net/emoticons/v1/$id/2.5
+		https://static-cdn.jtvnw.net/emoticons/v1/$id/3.0
+		https://static-cdn.jtvnw.net/emoticons/v1/$id/3.5
+		https://static-cdn.jtvnw.net/emoticons/v1/$id/4.0
+		https://static-cdn.jtvnw.net/emoticons/v1/$id/4.5
+	Regex: \d+
+	Examples:
+		Kappa -> 25
+		Golden Kappa -> 80393
+		BlackLivesMatter -> 302537250
+		hasRaid -> 300238155
+		PogChamp -> 88
+		PogChamp (January 8, 2021) -> 305271599
+Emote Set
+	Regex: \d+
+	Examples:
+		CelebrateKpop -> 592920959
+		StreamWithPride -> 537206155
+		Prime -> 19194
+		Global -> 0
+		HasanAbi -> 703974
+Badge
+	Regex: [a-zA-Z0-9\-_]+
+	Examples:
+		Prime Gaming -> premium
+		cheer -> bits
+		GLHF Pledge -> glhf-pledge
+		Direct Relief - Charity 2018 -> bits-charity
+		TwitchCon NA 2019 -> twitchconNA2019
+		OWL All-Access Pass 2019 -> overwatch-league-insider_2019A
+		GlitchCon 2020 -> glitchcon2020
+Badge Image
+	URL:
+		https://static-cdn.jtvnw.net/badges/v1/$id/1
+		https://static-cdn.jtvnw.net/badges/v1/$id/2
+		https://static-cdn.jtvnw.net/badges/v1/$id/3
+	Regex: [a-zA-Z0-9]+\-[a-zA-Z0-9\-]+
+	Examples:
+		cheer 5000000 -> 3f085f85-8d15-4a03-a829-17fca7bf1bc2
+		Moderator -> 3267646d-33f0-4b17-b3df-f923a41db1d0
+		Gifter Leader 2 -> 0d9fe96b-97b7-4215-b5f3-5328ebad271c
+Cheer / Bits 
+	URL:
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/dark/animated/1/1.gif
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/dark/static/1/1.png
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/dark/animated/1/2.gif
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/dark/static/1/2.png
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/dark/animated/1/3.gif
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/dark/static/1/3.png
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/dark/animated/1/4.gif
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/dark/static/1/4.png
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/light/animated/1/1.gif
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/light/static/1/1.png
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/light/animated/1/2.gif
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/light/static/1/2.png
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/light/animated/1/3.gif
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/light/static/1/3.png
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/light/animated/1/4.gif
+		https://d3aqoihi2n8ty8.cloudfront.net/actions/$id/light/static/1/4.png
+	Regex: [a-zA-Z0-9\-_]+
+	Examples:
+		Cheer -> cheer
+		Pride -> pride
+		HeyGuys -> heyguys
+User
+	URL: https://www.twitch.tv/$id
+	Regex: [a-zA-Z0-9_]+
+	Examples:
+		Twitch -> twitch
+		HasanAbi -> hasanabi
+		FIatEarth -> fiatearth
+		TSM_Daequan -> tsm_daequan
+		summit1g -> summit1g
+		Justin -> Justin
+		shead -> shead
+User Numeric ID
+	URL: https://www.twitch.tv/$id
+	Regex: \d+
+	Examples:
+		Twitch -> 12826
+		HasanAbi -> 207813352
+		FIatEarth -> 195736748
+		dane -> 1214
+Team
+	URL: https://www.twitch.tv/team/$id
+	Regex: [a-zA-Z0-9\-_]+
+	Examples:
+		OTK -> oak
+		GFUEL -> gfuel
+		The Hammer Squad -> ths
+		Cloud9 -> cloud9
+		Dreamhack Stats -> dreamhack_stats
+		ROG UK Gaming -> asus-uk-gaming
+		ESL 24/7 -> esl247
+		EpicSMP -> epicsmp
+VOD Video
+	URL: https://www.twitch.tv/videos/$id
+	Regex: \d+
+	Examples:
+		HasanAbi Election Day Stream -> 790951798
+Clip
+	URL: https://clips.twitch.tv/$id
+	Regex: [a-zA-Z0-9\-_]+
+	Examples:
+		New Zealand Prime Minister Visits Stream -> InterestingProudSpindleJebaited
+		Keanu Reeves Breathtaking -> BashfulHelpfulSalamanderPrimeMe
+		Mark Zuckerberg Interrogation -> GorgeousFunnyNeanderthalBIRB
+		Destiny Abuse Debate -> ObeseFrigidBibimbapTBTacoLeft
+		Most Viewed Clip -> AverageSparklyTortoisePeoplesChamp
+Profile Picture
+	URL: https://static-cdn.jtvnw.net/jtv_user_pictures/$id-70x70.png
+	Regex: [a-zA-Z0-9\-_]+
+	Examples:
+		Twitch Gaming -> 70941771-521b-44e7-a9dc-ef085cd4b47f-profile_image
+		xQcOW -> xqcow-profile_image-9298dca608632101
+		loltyler1 -> f3591dbe4ee3d94b-profile_image
+Collection
+	URL: https://www.twitch.tv/collections/$id
+	Regex: [a-zA-Z0-9\-_]+
+	Examples:
+		TwitchCon 2019 San Diego -> eMybriFryRWpiQ
+		TwitchCon 2018 -> QA6Amns-YRUdIA
+		TwitchCon 2017 -> ENEluEecxRTw1g
+Extension
+	URL: https://dashboard.twitch.tv/extensions/$id
+	Regex: [a-z0-9]+
+	Examples:
+		Twitch Gaming -> awp6xmg13j98jggleu6paar9cc9372
+		Smart Click Maps -> c8okel68mmobvnso7ty0cygj8easam
+		Crowd Control™ -> 7nydnrue11053qmjc6g0fd6einj75p
+		Streamlabs -> zfh2irvx2jb4s60f02jq0ajm8vwgka
+		StreamElements Leaderboards -> uaw3vx1k0ttq74u9b2zfvt768eebh1
+Extension Category
+	URL: https://dashboard.twitch.tv/extensions/categories/$id
+	Regex: [a-zA-Z0-9]+\-[a-zA-Z0-9\-]+
+	Examples:
+		Extensions for Games -> cbca1847-6448-409d-a0e2-03e0076a6165
+		Schedule & Countdowns -> d86ef964-5f30-441f-aff2-4eb824696656
+		Loyalty and Recognition -> 5f90120d-be64-41a7-bc83-6ecc9ba10910
+		Streamer Tools -> e02ee494-3e26-4f4d-8717-93ac5d7fa8b9
+		Viewer Engagement -> f3d9ce3c-696d-4c6f-b623-e76c06e33f1d
+		Music -> eb89b9c9-7acc-4731-b5f1-41dbcd64bb12
+		Polling & Voting -> 51aa177b-797d-42bb-a8bc-b547551a650a
+		Games in Extensions -> bb7763ca-d2d5-4b97-b202-c4785b729681
+Achievement
+	URL: https://dashboard.twitch.tv/u/$username/achievements/$id
+	Regex: [a-zA-Z0-9]+\-[a-zA-Z0-9\-]+
+	Examples:
+		Raiding party - ff315888-061c-4d15-aadd-f422a7870dfc
+		TwitchCon get - c2182775-d995-4eb6-9f55-98a20f4e49b0
+		Know your stuff - f9b15f5f-7c67-4dc1-b93a-e28bed01af19
+Loot Game
+	URL: https://gaming.amazon.com/loot/$id
+	Regex: [a-z0-9]+
+	Examples:
+		Warframe -> warframe
+		Grand Theft Auto Online -> gtaonline
+		Madden 21 -> madden21
+		Assassin's Creed Valhalla -> acv
+Client ID
+	Regex: [a-z0-9]+
+	Examples:
+		??? -> 5hqa4ik1li0uqxbyz4mkkxilsbrwag
+Client Secret
+	Regex: [a-z0-9]+
+	Examples:
+		??? -> 4qedpc1y3lvfkiu5ogxwa1a8fkftg1
+Application
+	URL: https://dev.twitch.tv/console/apps/$id
+	Regex: [a-z0-9]+
+	Examples:
+		??? -> 6rtwtdwgdt9fpnwmyjcff5wuewuuxw
+Esports Game
+	URL: https://www.twitch.tv/directory/esports/game/_/$id
+	Examples:
+		VALORANT -> 516575
+		Chess -> 743
+		Breakfree -> 1
+		Dr. Drago's Madcap Chase -> 10000

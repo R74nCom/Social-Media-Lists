@@ -1,0 +1,220 @@
+User
+	URL: https://twitter.com/$id
+	Examples:
+		Twitter Support -> TwitterSupport
+		Twitter Verified -> verified
+		LadyAgnes -> _LadyAgnes
+		100 gecs -> 100gecs
+		slweeb -> slweeb
+		Birdwatch Example -> bwatchexample
+		Andrei Zmievski -> a
+		はる -> aaaaaaaaaaaaaa
+		Dave -> _
+		Adrian Lamo -> 6
+User Numeric ID
+	URL: https://twitter.com/i/user/$id
+	Examples:
+		BarackObama -> 813286
+		jack -> 12
+		glaiv3 -> 1228762635857989632
+		slweeb -> 2884920319
+		example_wren -> 1352757350231281664
+		example_owl -> 1352756883862429696
+		bwatchexample -> 1352756202984226816
+Tweet
+	URL:
+		https://twitter.com/_/status/$id
+		https://twitter.com/i/birdwatch/t/$id
+	Examples:
+		Chadwick Boseman Death -> 1299530165463199747
+		Joe Biden Election Win -> 1325118992785223682
+		First Tweet -> 20
+		Birdwatch Example 3 -> 1352796618504892420
+List
+	URL: https://twitter.com/i/lists/$id
+	Examples:
+		Official Twitter Accounts -> 84839422
+		Support -> 99924643
+		National-parks -> 715919216927322112
+		COVID-19 -> 1308518696961347584
+Topic
+	URL: https://twitter.com/i/topics/$id
+	Examples:
+		Minecraft -> 10043689888
+		Game development -> 1070028312276127746
+		Among Us -> 1308398176978698241
+		Apple -> 10026364281
+Moment
+	URL: https://twitter.com/i/events/$id
+	Examples:
+		Moments' first anniversary -> 783789784153989120
+		Voter fraud is rare -> 1308626736066617344
+		No evidence of voter fraud in Michigan -> 1329112162854264833
+		Poll watchers are allowed -> 1328463057262002176
+		No, 5G isn't causing coronavirus 🤔 -> 1246086575043178496
+		Coachella 2022 -> 1510987314591256581
+		Joe Biden did not introduce a man in blackface -> 1284206564526616576
+		COVID-19: News and updates for Washington, DC -> 1334537456754941953
+Image
+	URL:
+		https://pbs.twimg.com/media/$id?format=jpg
+		https://pbs.twimg.com/media/$id?format=png
+		https://pbs.twimg.com/media/$id?format=gif
+	Examples:
+		Chadwick Boseman Death (1) -> Egjby7kWoAA1PRI
+		Chadwick Boseman Death (2) -> Egjby7mXsAAXX
+		Birdwatch Example 3 -> EsYZRWoVkAAFpxe
+Twemoji Emoji
+	URL: https://abs-0.twimg.com/emoji/v2/svg/$id.svg
+	Examples:
+		🦐 -> 1f990
+		😳 -> 1f633
+		♥️ -> 2665
+		👩‍👩‍👧‍👦 -> 1f469-200d-1f469-200d-1f467-200d-1f466
+		👨‍❤️‍💋‍👨 -> 1f468-200d-2764-fe0f-200d-1f48b-200d-1f468
+		🏴󠁧󠁢󠁥󠁮󠁧󠁿 -> 1f3f4-e0067-e0062-e0065-e006e-e0067-e007f
+Location
+	URL: https://twitter.com/places/$id
+	Examples:
+		Houston, TX -> 1c69a67ad480e1b1
+		West Hollywood, CA -> 1927193c57f35d51
+		Taipei City, Taiwan -> 00180402799fed03
+		Punjab, Pakistan -> 00cc0d5640394308
+Shortened URL
+	URL: https://t.co/$id
+	Examples:
+		c.r74n.com -> gKLboAg4A5
+		google.com -> 1W5PI4OkIp
+		discord.com -> cNrYsYvfIi
+Direct Message
+	URL: https://twitter.com/messages/$id
+	Examples:
+		??? -> 146540920-2884920319
+		??? -> 2884920319-1299485680029102088
+Sticker (Deprecated)
+	URL:
+		https://ton.twimg.com/stickers/stickers/$id_svg.svg
+		https://twitter.com/i/stickers/$id
+	Examples:
+		Heart Eyes -> 11703
+		I Heart U -> 21441
+		Line -> 11285
+Application
+	URL: https://twitter.com/settings/applications/$id
+	Examples:
+		TweetDeck -> 55902
+		iOS -> 312240
+		Instagram -> 239954
+		Miitomo -> 9337035
+		Vine Web -> 12165736
+		Discord Twitter Integration -> 13054616
+Session
+	URL: https://twitter.com/settings/sessions/$id
+	Examples:
+		??? -> yu0zBjiUBIFgVLbGlAfMupH24e%2BrFaaUxKyHoWP0aDM%3D
+Periscope Stream
+	URL:
+		https://www.pscp.tv/w/$id
+		https://twitter.com/i/broadcasts/$id
+	Examples:
+		SpaceX Crew-1 Mission -> 1mrGmwqmVazxy
+		Donald Trump Second Impeachment -> 1BdGYYgXqMZGX
+Periscope User
+	URL: https://www.pscp.tv/$id
+	Examples:
+		SpaceX -> SpaceX
+Periscope Channel
+	URL: https://www.pscp.tv/channel/$id
+	Examples:
+		Featured Broadcasts -> featured-broadcasts
+		Travel the World -> travel-world-new
+		Japan News -> japan-news
+		American Football -> american-football
+		Mission: Space -> mission-space
+Fleet
+	Examples:
+		FLEEEEEEE -> F1-328981909847761665
+		EEEEEEEE -> F1-328981960431005651
+		EEETS👀 -> F1-328982049769680629
+		slweeb first Fleet -> F1-329006445804741358
+Ad Campaign:
+	URL: https://ads.twitter.com/campaign/$id
+	Examples:
+		??? -> 18ce54bi4g7
+Ads Account Number
+	URL: https://analytics.twitter.com/account_management/$id/account_users
+	Examples:
+		??? -> 18ce55ar4nr
+Survey
+	URL: https://analytics.twitter.com/surveys/v2/$id
+	Examples:
+		??? -> 8886
+Hashflag Campaign
+	Examples:
+		McRib Return -> McRib_Dec_2020_H_all
+		Periscope -> Periscope
+		Stay at Home -> StayHome_2020_add5
+Hashflag
+	URL: https://abs.twimg.com/hashflags/$campaignid/$id.png
+	Examples:
+		McRib Return -> McRib_Dec_2020_H_all
+		Periscope -> Periscope
+		Stay at Home -> StayHome_2020_add5
+Space
+	URL: https://twitter.com/i/spaces/$id
+	Examples:
+		Dantley Davis First Space -> 1vOGwEQnYabxB
+		Test Space 1 -> 1OwxWVljmOnJQ
+		Test Space 2 -> 1djxXqbzAlvKZ
+Blog Author
+	URL: https://blog.twitter.com/en_us/authors.$id.html
+	Examples:
+		Twitter -> Twitter
+		Twitter Safety -> TwitterSafety
+		Dalana Brand -> d_lux_brand
+Blog Tag
+	URL: https://blog.twitter.com/en_us/tags.blog--$id.html
+	Examples:
+		data -> data
+		Twitter for Good -> twitter-for-good
+		elections -> elections
+		transparency -> transparency
+Birdwatch Note
+	URL: https://help.twitter.com/en/forms/birdwatch?note_id=$id
+	Examples:
+		example_owl 1 -> 1352796878438424576
+		example_wren 1 -> 1353415873227177985
+Birdwatch Participant
+	Examples:
+		example_owl -> 6B6171E803FBBF58397EC4A0AF76A2FF
+		example_wren -> 0466BA47B23AAAB301AA767C4C780E8D
+		slweeb -> 785F608A49A333D59696479B96A0FE49
+Birdwatch Username
+	URL: https://twitter.com/i/birdwatch/u/$id
+	Examples:
+		Meticulous Guava Crane -> meticulous-guava-crane
+		Jazzy Sandalwood Penguin -> jazzy-sandalwood-penguin
+		Artistic Cove Bluejay -> artistic-cove-bluejay
+		Enthralling River Kingfisher -> enthusiastic-river-kingfisher
+		Positive Plum Magpie -> positive-plum-magpie
+		Tranquil Spring Bluejay -> tranquil-spring-bluejay
+		slweeb -> accomplished-papaya-ostrich
+Community
+	URL: https://twitter.com/i/communities/$id
+	Examples:
+		AstroTwitter -> 1433240493408722945
+		DogTwitter -> 1432860025005826048
+		GOT7 -> 1491418697826996224
+Collection
+	URL: https://twitter.com/i/timelines/$id
+	Examples:
+		Test Timeline -> 1518063793833709568
+Creator Insiders Post
+	URL: https://www.creatorinsiders.io/hub/posts/$id
+	Examples:
+		Welcome to the Creator Insiders Community! -> 25709335
+		Introduce Yourself! -> 25740053
+Creator Insiders Forum Thread
+	URL: https://www.creatorinsiders.io/forums/Forums/Details/$id
+	Examples:
+		Let's chat! -> 4589b5ff-f415-464a-b300-398f6943489f

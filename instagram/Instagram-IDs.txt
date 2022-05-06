@@ -1,0 +1,129 @@
+Post
+	URL: https://www.instagram.com/p/$id/
+	Examples:
+		World Record Egg -> BsOGulcndj-
+		XXXTentacion's Last Post -> Bi-hISIghYe
+		Chadwick Boseman Death -> CEdLs05FWTn
+		First Instagram post -> G
+		Second Instagram Post -> C
+User
+	URL:
+		https://www.instagram.com/$id/
+		https://www.instagram.com/$id/?__a=1
+		https://www.instagram.com/$id/shop/
+	Examples:
+		Instagram -> instagram
+		slweeb -> social.weeb
+		Laura Les -> xxendless_slaughterxx
+		Instagram’s @shop -> shop
+		_ -> _
+		kevin -> kevin
+User Numeric ID
+	URL: https://www.instagram.com/uid/$id/
+	Examples:
+		social.weeb -> 4237211351
+		instagram -> 25025320
+		jack -> 66
+		kevin -> 3
+		mikeyk -> 4
+		abbott -> 5
+		nicole -> 6
+		haozhiplus2 -> 0
+		__deleted__uudmlequqchxwwil -> 7
+Reel
+	URL: https://www.instagram.com/reel/$id/
+	Examples:
+		neekolul reel -> CD-tou_nWeB
+		Google Nest Audio Colors -> CF2Q6FolgHT
+IGTV Post
+	URL: https://www.instagram.com/tv/$id/
+	Examples:
+		Pokimane IGTV post -> BkQN2o7B3UO
+		Google Black Trans Lives Matter -> CFQBQRyFIJF
+Direct Message Conversation
+	URL: https://www.instagram.com/direct/t/$id
+	Examples:
+		??? (Person) -> 340282366841710128159728923009495616078
+		??? (Group) -> 340282366848333171030094912131166412811
+Story
+	URL: https://www.instagram.com/stories/$username/$id/
+	Examples:
+		discord -> 2443318807022767645
+		maya_higa -> 2443204485040922680
+		shop -> 2826598414721390860
+Highlight
+	URL: https://www.instagram.com/stories/highlights/$id/
+	Examples:
+		google -> 17870375656968501
+		instagram -> 17872590965002596
+Guide
+	URL: https://www.instagram.com/$username/guide/$id/
+	Examples:
+		Act for Racial Justice -> act-for-racial-justice/17903566507475316
+		Take Charge -> take-charge-create-a-positive-instagram-experience/17865134450117820
+		The Pods -> the-pods/17920882021483161
+Location
+	URL: https://www.instagram.com/explore/locations/$id/
+	Examples:
+		Tokyo, Japan -> 7226110
+		Los Angeles, California -> 212999109
+		Silicon Valley, California -> 250936288793632
+		XOCO -> 638
+Country
+	URL: https://www.instagram.com/explore/locations/$id/
+	Examples:
+		United States -> US
+		Egypt -> EG
+		Palestine -> PS
+		United Arab Emirates -> AE
+		South Georgia and the South Sandwich Islands -> GS
+		Antarctica -> AQ
+		Zimbabwe -> ZW
+City
+	URL: https://www.instagram.com/explore/locations/c$id/
+	Examples:
+		SipleStation, Antarctica -> 2687153
+		West Hollywood, United States -> 2422816
+		Bantam Village, Cocos (Keeling) Islands -> 297322
+		Oberloibach, Austria -> 100000
+		Pyongyang, North Korea -> 1252779
+Effect
+	URL: https://www.instagram.com/ar/$id/
+	Examples:
+		2020 predictions -> 2284128508356084
+		Meta -> 1986653784717626
+		Glitch Glasses -> 525334588231016
+		House of Instagram -> 681952879437117
+		Puppy -> 204111816775358
+Fundraiser
+	URL: https://www.instagram.com/linking/fundraiser?fundraiser_id=$id
+	Examples:
+		chronic.memesv2 x Children's Cancer Research -> 1450631515291512
+Live Stream:
+	URL: https://www.instagram.com/$user/live/$id
+	Examples:
+		??? -> sha_bilal_official/live/17918493695404213
+Professional Account Category
+	Examples:
+		Sports Bar -> 184460441595855
+		Art -> 2903
+		Artist -> 1601
+		Blogger -> 361282040719868
+		Portable Toilet Rentals -> 133886996679184
+		Politician -> 1700
+		School -> 2601
+
+#Waiting for desktop:
+#Saved Collection
+#Effect Category
+#On This Day
+#Archive
+#Audio
+#Saved Audio
+#Quick Reply
+#Disappearing Message
+#Store
+#Store Category
+#Store Item
+#Store Image
+#Avatars

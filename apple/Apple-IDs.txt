@@ -1,0 +1,65 @@
+App
+	URL: https://apps.apple.com/app/id$id
+	Examples:
+		Stocks -> 1069512882
+		Minecraft -> 479516143
+		eBay -> 282614216
+		Minecraft Earth -> 1467316099
+		Minecraft Sticker Pack -> 1223717273
+		Minecraft: Education Edition -> 1196524622
+Developer
+	URL: https://apps.apple.com/developer/id$id
+	Examples:
+		Apple -> 284417353
+		eBay Inc. -> 282614219
+		Mojang -> 479516146
+Genre
+	URL: https://apps.apple.com/genre/id$id
+	Examples:
+		Social Networking -> 6005
+		Games -> 6014
+		Magazines & Newspapers -> 6021
+		Blues -> 2
+		App Store -> 36
+Story
+	URL: https://apps.apple.com/story/id$id
+	Examples:
+		News You Can Trust -> 1516553757
+		Follow The News -> 1515625310
+		Go Deep With Your Graphics -> 1437864130
+Shortcut Link
+	URL: https://www.icloud.com/shortcuts/$id
+	Examples:
+		If -> 391ce31e2a594729be7fe2879824f98f
+		Water Eject -> a7ba526c013f4470979ad5b7438c471f
+		Instagram Downloader -> 314309da26a24043b8e423628e5f7304
+		Washing Hands Music -> c010b3717e3c4a1385c8457651823212
+Testflight App
+	URL: https://testflight.apple.com/join/$id
+	Examples:
+		Discord -> gdE4pRzI
+		Twitch Beta -> 8vRKFAiY
+Settings Root
+	URL: prefs:root=$id
+	Examples:
+		Do Not Disturb -> DO_NOT_DISTURB
+		Sounds -> Sounds
+		Notifications -> NOTIFICATIONS_ID
+		Cellular -> MOBILE_DATA_SETTINGS_ID
+		iCloud -> CASTLE
+		Wallpaper -> Wallpaper
+		Apple Pencil -> Pencil
+		Game Center -> GAMECENTER
+Settings Path
+	URL: prefs:root=$root&path=$id
+	Examples:
+		Battery Health -> BATTERY_HEALTH
+		Camera -> CAMERA
+		Analytics & Improvements -> PROBLEM_REPORTING
+		App Downloads -> App%20Downloads
+		Video Autoplay -> Video%20Autoplay
+		Blocked Sender Options -> Blocked%20Sender%20Options
+		Signature -> Signature
+		Driving & Navigation -> Driving%20%26%20Navigation
+		Cellular Data -> com.apple.Music:CellularData
+		EQ -> com.apple.Music:EQ

@@ -1,0 +1,89 @@
+User
+	URL: https://github.com/$1
+	Examples:
+		Twitter -> twitter
+		Mukunda Modell -> 20after4
+		jayme-github -> jayme-github
+		Riccardo Coccioli -> volans-
+Repository
+	URL: https://github.com/$1
+	Examples:
+		Twemoji -> twitter/twemoji
+Tree
+	URL: https://github.com/$userid/$repoid/tree/$id
+	Examples:
+		master -> master
+		gh-pages -> gh-pages
+Marketplace
+	URL: https://github.com/marketplace/$id
+	Examples:
+		Flaptastic -> flaptastic
+		Jira Software + GitHub -> jira-software-github
+		HTML/CSS to Image -> html-css-to-image
+Marketplace Category
+	URL: https://github.com/marketplace/category/$id
+	Examples:
+		Free -> free
+		Paid -> paid
+		GitHub Enterprise -> github-enterprise
+		Mobile -> mobile
+		API management -> api-management
+		IDEs -> ides
+		Dependency management -> dependency-management
+		Recently added -> recently-added
+Marketplace Verification
+	URL: https://github.com/marketplace?verification=$1
+	Examples:
+		Verified -> verified
+		Unverified -> unverified
+		Verified Creator -> verified_creator
+Marketplace Type
+	URL: https://github.com/marketplace?type=$id
+	Examples:
+		Apps -> apps
+		Actions -> actions
+Marketplace Plan
+	URL:
+		https://github.com/marketplace/$marketplaceid/order/$id
+		https://github.com/marketplace/$marketplaceid/plan/$id#pricing-and-setup
+	Examples:
+		Flaptastic - Evaluation -> MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xOTQz
+		Flaptastic - Small Team -> MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xOTM4
+		Flaptastic - Standard -> MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xOTM5
+		Flaptastic - Flagship -> MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xOTQw
+		LeanBoard - Free -> MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xNjY0
+		LeanBoard - Personal -> MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4xNzAy
+		LeanBoard - Organization -> MDIyOk1hcmtldHBsYWNlTGlzdGluZ1BsYW4yMjUz
+Topic
+	URL: https://github.com/topics/$1
+	Examples:
+		Chrome -> chrome
+		Code review -> code-review
+		COVID-19 -> covid-19
+		C++ -> cpp
+		C# -> csharp
+		iOS -> ios
+		Minecraft -> minecraft
+		macOS -> macos
+		C -> c
+		Chrome Extension -> chrome-extension
+Issue
+	URL: https://github.com/$userid/$repoid/issues/$id
+	Examples:
+		9 -> 9
+		400 -> 400
+Pull Request
+	URL: https://github.com/$userid/$repoid/pull/$id
+Gist
+	URL:
+		https://gist.github.com/$id
+		https://gist.github.com/$userid/$id
+	Examples:
+		Random Recent 1: 16821e4d4eac962d79a261d7c8d056d8
+		Random Recent 2: 966c61e3c2fee5cc0d58bfe61ce3c16f
+		Random Recent 3: c74c960695a1818753cfac6875f4d987
+Project
+	URL: https://github.com/users/$userid/projects/$id
+	Examples:
+		Project 1 -> 1
+		Project 100 -> 100

@@ -1,0 +1,29 @@
+User
+    URL: https://soundcloud.com/$id
+    Examples:
+        st jimmy -> jimmydagum
+        100 gecs -> 100gecs
+        8485 -> pincode8485
+        salem's archive -> user-927354122
+        jorden<3 -> jorden-buxton-898639732
+        ab. -> ab
+        IDEO U -> ideo_u
+        Bliss -> 123
+Song
+    URL: https://soundcloud.com/$user/$id
+    Examples:
+        help_urself 2 -> ezekiel94396/help_urself-2
+        L33CH!!! -> pincode8485/l33ch
+        so true bestie -> vaeo-music/so-true-bestie-wjedwill1999-prod-goodbyex2002-yung-skrrt
+Set
+    URL: https://soundcloud.com/$user/sets/$id
+    Examples:
+        745 sticky (Injury Reserve Remix) -> 100gecs/sets/745-sticky-injury-reserve
+        1000 gecs -> 100gecs/sets/1000-gecs
+        1,000 gecs and The Tree of Clues -> 100gecs/sets/1-000-gecs-the-tree-of-clues
+Artist Station
+    URL: https://soundcloud.com/discover/sets/artist-stations:$id
+    Examples:
+        100 gecs -> 642633195
+        8485 -> 751348330
+        dltzk -> 603043044

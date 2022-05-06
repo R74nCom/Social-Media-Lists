@@ -1,0 +1,258 @@
+User ID
+	URL:
+		https://discord.com/users/$id
+		https://canary.discord.com/users/$id
+		https://discordapp.com/users/$id
+		https://canary.discordapp.com/users/$id
+	Text:
+		<@$id>
+		<@!$id>
+	Examples:
+		ryan#4755 -> 101070932608561152
+		lily#2584 -> 72298287486468096
+		pokimane#0001 -> 95641937423372288
+		Discord#0000 -> 643945264868098049
+		Community Updates#0000 -> 669627189624307712
+User
+	Text: @$id
+	Examples:
+		HasanAbi -> hasanabi#5668
+		Sodapoppin -> Sodapoppin#1337
+		Ice Poseidon -> Ice Poseidon#5719
+		slweeb -> ryan#4755
+		Discord -> Discord#0000
+		Community Updates -> Community Updates#0000
+		Elemental Bot [Dev] -> Elemental Bot [Dev]#4566
+		Trick'cord Treat -> Trick'cord Treat#1944
+Guild ID / Server ID
+	URL:
+		https://discord.com/channels/$id
+		https://canary.discord.com/channels/$id
+		https://discordapp.com/channels/$id
+		https://canary.discordapp.com/channels/$id
+		https://discord.com/developers/servers/$id
+		https://discordapp.com/developers/servers/$id
+	Examples:
+		Minecraft -> 302094807046684672
+		Discord Testers -> 197038439483310086
+		Wikimedia Community -> 221049808784326656
+Channel ID
+	URL:
+		https://discord.com/channels/$guildid/$id
+		https://canary.discord.com/channels/$guildid/$id
+		https://discordapp.com/channels/$guildid/$id
+		https://canary.discordapp.com/channels/$guildid/$id
+	Text: <#$id>
+	Examples:
+		Minecraft #game-announcements -> 436219236420157450
+		Discord Testers #announcements -> 197038477953597440
+		Discord Testers Information Category -> 733488505056919682
+		Ape Nation #welcome -> 455014674942001152
+		Ape Nation Movie Room -> 687516362805084199
+		R74n #general -> 939255181474955334
+		R74n Chat Category -> 939255181474955332
+		R74n #rules -> 939347812750082099
+Message ID
+	URL:
+		https://discord.com/channels/$guildid/$channelid/$id
+		https://canary.discord.com/channels/$guildid/$channelid/$id
+		https://discordapp.com/channels/$guildid/$channelid/$id
+		https://canary.discordapp.com/channels/$guildid/$channelid/$id
+		https://discord.com/channels/@me/$dmid/$id
+		https://canary.discord.com/channels/@me/$dmid/$id
+		https://discordapp.com/channels/@me/$dmid/$id
+		https://canary.discordapp.com/channels/@me/$dmid/$id
+	Examples:
+		Minecraft 20w45a -> 773619730837798924
+		Discord Testers Rules -> 735253958347587705
+		??? from 2017 -> 352967285935439872
+Role ID
+	Text: <@&$id>
+	Examples:
+		Minecraft Staff -> 302101979340210176
+		Bug Hunter -> 694253008816570488
+		NotSoBot -> 611549073547329546
+		Elemental Bot -> 705085362283872367
+Invite
+	URL:
+		https://discord.gg/$id
+		https://discord.com/invite/$id
+		https://canary.discord.com/invite/$id
+		https://discordapp.com/invite/$id
+	Examples:
+		Mayacord -> KhXAvU5
+		OTK Community -> m8bgxM8
+		Hasanabi -> hasan
+		CallMeCarson Discord Cult -> callmecarson
+		Discord API -> discord-api
+		Discord Bots -> 0cDvIgU2voWn4BaD
+		Discord Developers -> discord-developers
+		Snowsgiving 2020 -> snowsgiving
+Emote Name
+	Text:
+		:$id:
+		:$id~$n:
+		<:$id:$emoteid>
+		<a:$id:$emoteid>
+	Examples:
+		:mc_bee: -> mc_bee
+		:Coal: -> Coal
+		:b1zny: -> b1zny
+		:________________________________: -> ________________________________
+		:__: -> __
+		:GWjiangOmegaLUL: -> GWjiangOmegaLUL
+Emote ID
+	URL: https://cdn.discordapp.com/emojis/$id
+	Text:
+		<:$emotename:$id>
+		<a:$emotename:$id>
+	Examples:
+		:mc_bee: -> 614491304491089930
+		:Coal: -> 255832953349865472
+		:b1zny: -> 393564670054629376
+		:GWjiangOmegaLUL: -> 389904150886088723
+Emoji Shortcode
+	Text: :$id:
+	Examples:
+		🦐 -> shrimp
+		🔢 -> 1234
+		👍 -> +1
+		👎 -> -1
+		👩🏽‍⚕️ -> woman_health_worker_tone3
+		👩‍👩‍👧‍👦 -> family_wwgb
+Emoji Image
+	URL:
+		https://discord.com/assets/$id.svg
+		https://canary.discord.com/assets/$id.svg
+		https://discordapp.com/assets/$id.svg
+		https://canary.discordapp.com/assets/$id.svg
+	Examples:
+		🦐 -> 1247f4e6cce47d98b0a08f956fccb4f9
+		🔢 -> 8db9972dd015f679c16544ac3e29e6b1
+		👍 -> 08c0a077780263f3df97613e58e71744
+		👎 -> 66e3cbf517993ee5261f23687a2bc032
+		👩🏽‍⚕️ -> fa78e04dbe3582c0190e248f5a916028
+		👩‍👩‍👧‍👦 -> f3bad5a9a0f03e8386b09e4bf441f32b
+Server Template
+	URL:
+		https://discord.new/$id
+		https://discord.com/$id
+		https://canary.discord.com/$id
+		https://discordapp.com/$id
+	Examples:
+		ultra template -> hCDWVKRjgd2C
+		R74n -> CgH7uNjjy2rg
+Default Avatar
+	URL: https://cdn.discordapp.com/embed/avatars/$id.png
+	Examples:
+		blurple -> 0
+		grey -> 1
+		green -> 2
+		orange -> 3
+		red -> 4
+Avatar
+	URL: https://cdn.discordapp.com/avatars/$userid/$id.webp
+	Examples:
+		ryan#4755 -> 2defe257f7018c0a440d982d63e23dac
+		NotSoBot#9555 -> 7c2306f9ce96ce9805584ef823f58648
+		MEE6#4876 -> b50adff099924dd5e6b72d13f77eb9d7
+Server Icon
+	URL: https://cdn.discordapp.com/icons/$serverid/$id.webp
+	Examples:
+		Weeb Republic -> 06791a2f82fc206e0d1917d1727138e0
+Application / Client ID
+	URL:
+		https://discord.com/developers/applications/$id
+		https://discordapp.com/developers/applications/$id
+	Examples:
+		Elemental Bot -> 705085126404735046
+Public Key
+	Examples:
+		??? -> 1e9970b31d25267a8c1144b68dcbb8dae70cd9b7aa6a6e884beecfbd0d456814
+Client Secret
+	Examples:
+		??? -> 9rTbNod9EIVfcpCJHyWuCCyPHvtUUNlB
+Token
+	Examples:
+		??? -> M4jQ3M2MxyMDZzDE2MNNDIgN.glXEtJ.g5ywNREKZ2Tf_XdmwLdpe6_ytmo
+		??? -> KB-FusqeJ9uBOarP1skFe-OJRo0tE06vwX0YRo0tE2HgvKse8PtBpVQmgH5uzYf6JquL
+Permissions Integer
+	Examples:
+		Send Messages -> 2048
+		Manage Messages, Mute Members -> 4202496
+		Administrator -> 8
+		All Permissions -> 2147483639
+		All Permissions (Including Administrator) -> 2147483647
+Party ID
+	Examples:
+		??? -> ae834879-135d-2a5e-ad26-3g9e10d18576
+Join Secret
+	Examples:
+		??? -> NDA0NDA0OjRvMGZvZjoxMjMxMjM=
+Team ID
+	URL: https://discord.com/developers/teams/$id
+	Examples:
+		Weeb Team -> 585199392307544065
+SKU ID
+	URL:
+		https://discord.com/store/skus/$id
+		https://discordapp.com/store/skus/$id
+		https://discord.com/developers/applications/$appid/skus/$id
+		https://discordapp.com/developers/applications/$appid/skus/$id
+	Examples:
+		Subnautica -> 489926636943441932
+		Project Highrise -> 471030558009589772
+		Weeb Game -> 585200342719791104
+Attachment
+	URL: https://cdn.discordapp.com/attachments/$channelid/$messageid/$id
+	Examples:
+		image.png -> image.png
+		untitled.mp4 -> untitled.mp4
+		untitled.webm -> untitled.webm
+Build Override
+	URL: https://discordapp.com/__development/link?s=$id
+	Examples:
+		Canary Startup Improvements -> hEhKpE5RO5tViZoa4CjQeN3lKj3PeG3KJTuF%2BEtwf4A%3D.eyJ0YXJnZXRCdWlsZE92ZXJyaWRlIjp7ImRpc2NvcmRfd2ViIjp7InR5cGUiOiJicmFuY2giLCJpZCI6InBlcmYvc2Vzc2lvbnMvcmVhZHlfc3VwcGxlbWVudGFsX3RzeCJ9fSwicmVsZWFzZUNoYW5uZWwiOm51bGwsInZhbGlkRm9yVXNlcklkcyI6W10sImV4cGlyZXNBdCI6IlN1biwgMjMgQXVnIDIwMjAgMDY6MDM6NTMgR01UIn0%3D
+Bug Report
+	URL: https://bugs.discord.com/$id
+	Examples:
+		Trying to block a deleted account says friend request failed. -> T1669
+		Bugged screen at the bottom during sharescreen -> T1699
+		Markdown links sent by users show on android. -> T1728
+Language Code
+	Text: ```$id\n$text```
+	Examples:
+		Python -> py
+		HTML -> html
+		C++ -> cpp
+		C# -> cs
+Login QR Code
+	URL: https://discord.com/ra/$id
+	Examples:
+		Random 1 -> e5gwUyaHW9568YrnitvGrVsQASKcn-dL69t-xbnIamM
+		Random 2 -> mf5hkZJ3CnMIVFCjsx-PMVmRvMT0as_5P8wW--L5pVs
+		Random 3 -> __OtRcXl8H8LQ8qOJC4yhENiUBZPN-vZhL8-hwfuGHS
+Backup Code
+	Examples:
+		Random 1 -> o1i2-xulj
+		Random 2 -> 8v44-4sx7
+		Random 3 -> 20ku-ope2
+Gift
+	URL: https://discord.gift/$id
+	Examples:
+		Example 1 -> mpuq7WUcSEtjejDk
+		Example 1 -> tGPVVmQEwXvNpdbT
+		Example 1 -> uXjhSFgdFVTE9W3V
+Event
+	URL: https://discord.gg/$invite?event=$id
+	Examples:
+		R74n Birthday -> hdFr8EEF?event=958440634358825001
+Content Moderation Rule
+	Examples:
+		Commonly Flagged Words -> 970514512866336838
+Bot Command
+	Examples:
+		Activities /activity -> 819796428146737194
+		Activities /invite -> 860489258627760168
+		Note Quite Nitro /help -> 809164781608108064
+		DISBOARD.org /bump -> 947088344167366698

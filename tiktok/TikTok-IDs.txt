@@ -1,0 +1,48 @@
+User
+	URL: https://www.tiktok.com/@$id
+	Examples:
+		Bella Poarch -> bellapoarch
+		lilmochidoll -> lilmochidoll
+		glaive -> glaiveyeahwoohoo
+		Riyaz Aly -> riyaz.14
+		Faisal Shaikh -> mr_faisu_07
+		Arishfa Khan -> _arishfakhan_
+		BTS -> bts_official_bighit
+Video
+	URL:
+		https://www.tiktok.com/@_/video/$id
+		https://www.tiktok.com/@$username/video/$id
+	Examples:
+		Bella Poarch most liked video -> 6862153058223197445
+		Cat reaching for camera -> 6839416095586159878
+		Wave hitting camera -> 6829613641491418374
+Shortened URL
+	URL: https://vm.tiktok.com/$id/
+	Examples:
+		Bella Poarch -> ZMJQU5oWf
+		TikTok -> Wcx9QL
+		TikTok Music Lives video -> Wvv2P2
+Song
+	URL: https://www.tiktok.com/music/$id
+	Examples:
+		M to the B -> M-to-the-B-6840839890826038022
+		eyesore -> eyesore-6892453652825508614
+		Hood Baby -> Hood-Baby-6812545347835922434
+		Savage Love (Laxed - Siren Beat) -> Savage-Love-Laxed-Siren-Beat-6834110584288447237
+		Original Sound -> original-sound-6878767301043178246
+Emote
+	Text: [$id]
+	Examples:
+		[smile] -> smile
+		[shock] -> shock
+		[wow] -> wow
+		[cry] -> cry
+		[facewithrollingeyes] -> facewithrollingeyes
+Emote Numeric ID
+	URL: https://sf16-scmcdn-va.ibytedtos.com/goofy/tiktok/web/node/_next/static/images/emoji/im_e$id.png
+	Examples:
+		[smile] -> 1
+		[shock] -> 46
+		[wow] -> 24
+		[cry] -> 4
+		[facewithrollingeyes] -> 19

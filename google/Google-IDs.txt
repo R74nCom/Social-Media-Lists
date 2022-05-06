@@ -1,0 +1,266 @@
+Search Source
+	URL: https://www.google.com/search?source=$id&q=
+	Examples:
+		Google.com -> hp
+		Google Chrome Mobile -> chrome-mobile
+Search Type
+	URL: https://www.google.com/search?tbm=$id&q=
+	Examples:
+		Images -> isch
+		Videos -> vid
+		Books -> bks
+		Shopping -> shop
+		Flights -> flm
+Search Client
+	URL: https://www.google.com/search?client=$id&q=
+	Examples:
+		Safari -> safari
+Rights
+	URL: https://www.google.com/search?as_rights=$id&q=
+	Examples:
+		Creative Commons Public Domain -> cc_publicdomain
+		Creative Commons Share-alike -> cc_sharealike
+		Creative Commons Noncommercial -> cc_noncommercial
+		Creative Commons Non-derived -> cc_nonderived
+		Creative Commons Attribute -> cc_attribute
+Language
+	URL: https://www.google.com/search?hl=$id
+	Examples:
+		English (US) -> en-us
+		English (UK) -> en-gb
+		German -> de
+		Chinese -> zh
+		Chinese (Taiwan) -> zh-tw
+List
+	URL: https://www.google.com/save/list/$id
+	Examples:
+		Collection Example 1 -> Nvr0f0f1R8SQhiR0jA5xQQ
+		Favorite jobs -> vyG_Iw3iTomt3kwHV3i56QG7BGTgXA
+Shortened URL
+	URL: https://goo.gl/$id
+	Examples:
+		Making URLs shorter -> l6MS
+		Random Example 1 -> yD5eLP
+		Random Example 2 -> U1nMNa
+		Random Example 1 -> PPdQx2
+		Google Help -> qU2w4
+		My Google Permissions -> UWxrGT
+
+
+
+
+Stock Ticker
+	URL: https://www.google.com/finance/quote/$id
+	Examples:
+		Alphabet Inc Class C -> GOOG:NASDAQ
+		Twitter Inc -> TWTR:NYSE
+		Nasdaq Composite -> .IXIC:INDEXNASDAQ
+		Hang Seng Index -> HSI:INDEXHANGSENG
+		S&P 500 Index -> .INX:INDEXSP
+Store Item Color
+	URL: https://www.google.com/search?tbm=shop&tbs=color:specific,color_val:$id&q=
+	Examples:
+		Green -> green
+		White -> white
+		Blue -> blue
+Shopping List
+	URL: https://shopping.google.com/u/0/lists/$id
+	Examples:
+		Collection Example 1 -> 2030728508859391
+		Collection Example 2 -> CAESFmo0FcGZGlueDxDQz6UDM2ckJoJvbWc%3D
+		Products I like -> CAE%3D
+		My shopping list 9979198282179646404
+Shopping Product
+	URL: https://www.google.com/shopping/product/$id
+	Examples:
+		Minecraft Builders & Biomes Board Game -> 17610505358759364659
+Knowledge Graph
+	URL: https://g.co/kg$id
+	Examples:
+		Among Us /g/11fmxtkfkz
+Keep Note
+	URL: https://keep.google.com/#NOTE/$id
+	Examples:
+		Example Keep 1 -> 1fnT_apaKeDvB5A3Tx6uIsdvEgUWs9eqSHIeH8pjj53Jbr62vyTNEKtFtIB-qhQ
+		Example Keep 2 -> 1TRNn3NiNjloEwzed1QHNx7_IWLQSpGuDSsriW7IVJixqc90pVnqd7ybODCVUP-c
+		Example Keep 3 -> 14VkNvb4KDs0Bfa3TlHus9fgcvsYLuzaKTTB0gQsCFXB8xzgVGBcpTn7O9COo-C4
+Keep Label
+	URL: https://keep.google.com/#label/$id
+	Examples:
+		Inspiration -> Inspiration
+		Personal -> Personal
+		Work -> Work
+		Label with Spaces -> Label%20with%20Spaces
+		</"Example #LABEL"> -> <%2F"Example%20%23LABEL">
+Font
+	URL: https://fonts.google.com/specimen/$id
+	Examples:
+		Roboto -> Roboto
+		Open Sans -> Open+Sans
+		Big Shoulders Stencil Display -> Big+Shoulders+Stencil+Display
+		B612 -> B612
+Font Category
+	URL: https://fonts.google.com/?category=$id
+	Examples:
+		Serif -> Serif
+		Sans Serif -> Sans+Serif
+		Monospace -> Monospace
+Font Language
+	URL: https://fonts.google.com/?subset=$id
+	Examples:
+		Latin -> latin
+		Chinese (Hong Kong) -> chinese-hongkong
+		Cyrillic Extended -> cyrillic-ext
+		Vietnamese -> vietnamese
+Font Sorting
+	URL: https://fonts.google.com/?sort=$id
+	Examples:
+		Most popular -> popularity
+		Newest -> date
+		Name -> alpha
+News Topic
+	URL: https://news.google.com/topics/$id
+	Examples:
+		COVID-19 -> CAAqBwgKMJy5lwswj-KuAw
+		Minecraft -> CAAqJAgKIh5DQkFTRUFvS0wyMHZNRGwyTm10d1p4SUNaVzRvQUFQAQ
+		Google -> CAAqBwgKMOjY3gow0cTWAQ
+		2020 US Election -> CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZpZDJ0a2JtYzRjQklDWlc0b0FBUAE
+		Glaive -> CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZpTjE5MGJqVXlkaElDWlc0b0FBUAE
+		U.S. -> CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE
+		World -> CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB
+		Business -> CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB
+		Technology -> CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB
+		Entertainment -> CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB
+		Sports -> CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB
+		Science -> CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB
+		Health -> CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ
+		Bruhathkayosaurus -> CAAqIggKIhxDQkFTRHdvSkwyMHZNRFE0TTNjeUVnSmxiaWdBUAE
+		New York City -> CAAqIggKIhxDQkFTRHdvSkwyMHZNREpmTWpnMkVnSmxiaWdBUAE
+		Headlines -> CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB
+News Story
+	URL: https://news.google.com/stories/$id
+	Examples:
+		George Floyd Killing -> CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWozc0pUd2o0QU1FWTZuX294bnloUWdLQUFQAQ
+		Trump Administration Erases Transgender Healthcare Protections -> CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWladzZQOWo0QU1FWm1sVzlvc1lVZk5LQUFQAQ
+		iOS 14.3 Release -> CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWl1cjVxM2tZQU1FVGJEdkQyZ2o2bXNLQUFQAQ
+News Publication
+	URL: https://news.google.com/publications/$id
+	Examples:
+		CNN -> CAAqBwgKMKHL9QowkqbaAg
+		The Onion -> CAAqBwgKMKuDmwEwgcMY
+		Fox News -> CAAqBwgKMMC9iAswnJKHAw
+		The New York Times -> CAAqBwgKMI7rigMwlq88
+		BleepingComputer -> CAAqMQgKIitDQklTR2dnTWFoWUtGR0pzWldWd2FXNW5ZMjl0Y0hWMFpYSXVZMjl0S0FBUAE
+		Digital Information World -> CAAqBwgKMNbqhgsw3IeFAw
+		NK News -> CAAqJAgKIh5DQklTRUFnTWFnd0tDbTVyYm1WM2N5NXZjbWNvQUFQAQ
+News Article
+	URL: https://news.google.com/articles/$id
+	Examples:
+		glaive Unveils 'dnd' Video -> CBMiUGh0dHBzOi8vd3d3LmJyb2Fkd2F5d29ybGQuY29tL2J3d211c2ljL2FydGljbGUvZ2xhaXZlLVVudmVpbHMtZG5kLVZpZGVvLTIwMjAxMjAz0gFNaHR0cHM6Ly93d3cuYnJvYWR3YXl3b3JsZC5jb20vYW1wL2MucGhwP3VybD1nbGFpdmUtVW52ZWlscy1kbmQtVmlkZW8tMjAyMDEyMDM
+News Topic Section
+	URL: https://news.google.com/topics/$topicid/sections/$id
+	Examples:
+		Technology - Artificial Intelligence -> CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB
+		Technology - Internet -> CAQiRkNCQVNMZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TUROeWJIUXFDaElJTDIwdk1ETnliSFFvQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB
+		Entertainment - Music -> CAQiRkNCQVNMZ29JTDIwdk1ESnFhblFTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURSeWJHWXFDaElJTDIwdk1EUnliR1lvQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURKcWFuUVNBbVZ1R2dKVlV5Z0FQAVAB
+		Sports - Golf -> CAQiQ0NCQVNMQW9JTDIwdk1EWnVkR29TQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURNM2FIb3FDQW9HRWdSSGIyeG1LQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURadWRHb1NBbVZ1R2dKVlV5Z0FQAVAB
+News Publication Section
+	URL: https://news.google.com/topics/$publicationid/sections/$id
+	Examples:
+		The New York Times - Climate -> CAQqDwgAKgcICjCO64oDMJavPDCwsaYG
+Public Alert
+	URL: https://www.google.org/publicalerts/alert?aid=$id
+	Examples:
+		Japan Dry Weather -> 9c012b3064fca6ad
+		Australia Grass Fire -> f647651305330d87
+		Los Angeles Fire Weather -> ba73776f0f456001
+Currents Profile
+	URL: https://currents.google.com/$id
+	Examples:
+		Example Profile -> 104295564530793140879
+Currents Community
+	URL: https://currents.google.com/communities/$id
+	Examples:
+		Example Community -> 112433826103078206662
+Currents Post
+	URL: https://currents.google.com/$userid/posts/$id
+	Examples:
+		Example Post 1 -> 8qdXALTETZG
+		Example Post 2 -> XS1oZzDnw2W
+Book
+	URL: https://www.google.com/books?id=$id
+	Examples:
+		The Holy Bible -> WydCzQEACAAJ
+		The Communist Manifesto -> 5p6mzQEACAAJ
+Bookshelf
+	URL: https://books.google.com/books?uid=$id
+	Examples:
+		Favorites -> 105654189564588889131
+		Books for you -> 105654189564581318889
+Scholarly Article
+	URL: https://scholar.google.com/scholar?cluster=$id
+	Examples:
+		Controversies in meme theory -> 15366522788116029987
+Scholarly Organization
+	URL: https://scholar.google.com/citations?view_op=view_org&org=$id
+	Examples:
+		Google Inc. -> 6518679690484165796
+Scholarly Profile
+	URL: https://scholar.google.com/citations?user=$id
+	Examples:
+		Ilya Sutskever -> x04W_mMAAAAJ
+Legal Case
+	URL: https://scholar.google.com/scholar_case?case=$id
+	Examples:
+		Roe v. Wade -> 12334123945835207673
+Doodle
+	URL: https://www.google.com/doodles/$id
+	Examples:
+		Burning Man Festival 1998 -> burning-man-festival
+		Google Beta -> google-beta
+		Celebrating 50 Years Of Pride -> celebrating-50-years-of-pride
+		Halloween 2006 -> halloween-2006
+		Teachers' Day 2020 (September 22) -> teachers-day-2020-september-22
+Movie
+	URL: https://play.google.com/store/movies/details/?id=$id
+	Examples:
+		Joker -> v99qLnoiof8.P
+		Elf -> VrSdH0jsMnM
+		Marvel Studios' Avengers: Endgame -> ePpJDKfRAyM
+TV Show
+	URL: https://play.google.com/store/tv/show/?id=
+	Examples:
+		Game of Thrones -> 71Edzxe9gmo
+		Friends -> 9gafBzJ8wOk
+		The Big Bang Theory -> ojP2isZpJRg
+TV Episode
+	URL: https://play.google.com/store/tv/show?id=$showid&cdid=tvseason-$seasonid&gdid=tvepisode-$id
+	Examples:
+		The Challenege Season 36 Episode 22 -> RgWBXgyZemE.P
+TV Season
+	URL: https://play.google.com/store/tv/show?id=$showid&cdid=tvseason-$id
+	Examples:
+		The Challenege Season 36 -> YVEGvKxiOkA.P
+Google Play Cluster
+	URL: https://play.google.com/store/movies/collection/cluster?gsr=$id
+	Examples:
+		Top movies -> ChrSDhcKFQoPdG9wc2VsbGluZ19wYWlkEAcYBA%3D%3D:S:ANO1ljK7jAA
+		Top TV shows -> Ch_SDhwKGgoUdG9wc2VsbGluZ19wYWlkX3Nob3cQBxgE:S:ANO1ljKjvkI
+		Top TV episodes -> CiLSDh8KHQoXdG9wc2VsbGluZ19wYWlkX2VwaXNvZGUQBxgE:S:ANO1ljK0dXU
+Movies & TV Category
+	URL: https://play.google.com/store/movies/category/$id
+	Examples:
+		Reality & game shows -> 1008
+		Action & adventure -> 1
+		Music -> 25
+		Comedy -> 4
+		Movies -> MOVIE
+		TV -> TV
+		Family -> FAMILY
+Help Profile
+	URL: https://support.google.com/profile/$1
+	Examples:
+		Jordan -> 13928
+
+
+https://shopping.google.com/u/0/departments

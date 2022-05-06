@@ -1,0 +1,10 @@
+bp = Banner Page? URL parameter used to specify the event banner to display on the home page
+
+LL = Liked videos playlist
+WL = Watch later playlist
+
+yt = YouTube
+ytd = Main YouTube CSS class name starter
+ggpht = Google Photos
+yt3.ggpht.com = YouTube profile image CDN
+i.ytimg.com = YouTube image CDN

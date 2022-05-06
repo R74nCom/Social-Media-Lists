@@ -1,7 +1,7 @@
-Instagram
+Instagram:
     Post: https://www.instagram.com/p/G/
     Account: https://instagram.com/kevin / https://www.instagram.com/uid/3
-Twitter
+Twitter:
     Post: https://twitter.com/jack/status/20
     Account: https://twitter.com/jack / https://twitter.com/i/user/12
 YouTube:
@@ -21,3 +21,13 @@ Reddit:
     Account: https://www.reddit.com/user/spez
     Comment: https://www.reddit.com/r/reddit.com/comments/17863/two_countries_one_booming_one_struggling_which/c13/
     Premium Subscriber: https://www.reddit.com/user/stacecom
+Wikimedia:
+    Wikipedia Edit: https://en.wikipedia.org/w/index.php?title=HomePage&oldid=908493298
+    Wikidata Item: https://www.wikidata.org/wiki/Q1
+Tumblr:
+    Post: https://demo.tumblr.com/post/232/an-example-post
+The Internet:
+    Domain: https://symbolics.com
+Facebook:
+    Account: https://www.facebook.com/zuck / https://www.facebook.com/4
+    

@@ -1,0 +1,139 @@
+// This is a list of iMessage effects and the phrases that will automatically attach them to a message
+
+[Confetti]
+congratulations
+congrats
+best wishes
+Happy Holi
+Selamat (Congratulations)
+बधाई (Congratulations)
+बधाई हो (Congratulations)
+होली मुबारक (Happy Holi)
+تهانينا
+শুভ হোলি (Happy Holi)
+恭喜
+cestitam
+gratulujeme
+tillykke
+felicitations
+herzlichen gluckwunsch
+συγχαρητήρια
+અભિનંદન
+congratulazioni
+おめでとうございます
+ಅಭಿನಂದನೆಗಳು
+축하합니다
+अभिनंदन
+gratulacje
+parabens
+felicidades
+felicitaciones
+enhorabuena
+ขอแสดงความยินดีด้วย
+مبارک ہو
+
+[Love]
+
+[Balloons]
+happy birthday
+feliz cumpleanos (happy birthday)
+عيد ميلاد سعيد
+শুভ জন্মদিন
+subho jonmodin
+生日快乐
+生日快樂
+sretan rođendan
+vsechno nejlepsi k narozeninam
+tillykke med fødselsdagen
+joyeux anniversaire
+alles gute zum geburtstag
+herzlichen gluckwunsch zum geburtstag
+जन्मदिन मुबारक
+selamat ulang tahun
+buon compleanno
+誕生日おめでとう
+생일 축하합니다
+χαρούμενα γενέθλια
+वाढदिवसाच्या हार्दिक शुभेच्छा
+wszystkiego najlepszego z okazji urodzin
+feliz aniversario
+feliz aniversário
+feliz cumpleanos
+สุขสันต์วันเกิด
+
+[Lasers]
+pew pew
+
+[Celebration]
+
+[Celebration + Red and Yellow Bubble]
+Happy Chinese New Year
+Happy Lunar New Year
+新春快乐 (Happy New Year)
+恭喜发财 (Happy New Year)
+春节快乐 (Happy New Year)
+过年好 (Happy New Year)
+农历新年快乐 (Happy Chinese New Year)
+새해 복 많이 받으세요 (Happy New Year)
+سنة صينية جديدة سعيدة (Happy Chinese New Year)
+sretna kineska nova godina (Happy Chinese New Year)
+sretna lunarna nova godina (Happy Lunar New Year)
+stastny cinsky novy rok (Happy Chinese New Year)
+stastny lunarni novy rok (Happy Lunar New Year)
+godt kinesisk nytar (Happy Chinese New Year)
+joyeux nouvel an chinois (Happy Chinese New Year)
+ευτυχισμένο το κινέζικο νέο έτος (Happy Chinese New Year)
+ευτυχισμένο το σεληνιακό νέο έτος (Happy Lunar New Year)
+selamat tahun baru cina (Happy Chinese New Year)
+buon capodanno cinese (Happy Chinese New Year)
+旧正月おめでとう (Happy New Year)
+明けましておめでとうございます (Happy New Year)
+旧正月明けましておめでとうございます (Happy Chinese New Year)
+旧正月、明けましておめでとうございます (Happy Chinese New Year)
+春節おめでとう (Congratulations on Chinese New Year)
+旧正月おめでとうございます (Congratulations on Chinese New Year)
+새해 복 많이 받으세요 (Happy New Year)
+szczesliwego chinskiego nowego roku (Happy Chinese New Year)
+szczesliwego ksiezycowego nowego roku (Happy Chinese New Year)
+feliz ano novo chines (Happy Chinese New Year)
+feliz ano novo lunar (Happy Lunar New Year)
+feliz ano nuevo chino (Happy Chinese New Year)
+feliz ano nuevo lunar (Happy Lunar New Year)
+สุขสันต์วันตรุษจีน (Happy Chinese New Year)
+
+[Spotlight]
+
+[Shooting Star]
+
+[Fireworks]
+Happy New Year
+Happy Diwali
+Happy Deepavali
+新年快乐 (Happy New Year)
+新年快樂
+新年好
+chuc mung nam moi (Happy New Year)
+sretna nova godina
+stastny novy rok
+godt nytar
+bonne annee
+frohes neues jahr
+καλή χρονιά
+ευτυχισμένο το νέο έτος
+દિવાળીની શુભકામના (Happy Diwali)
+शुभ दीवाली (Happy Diwali)
+selamat tahun baru
+buon anno
+あけましておめでとうございます
+あけおめ
+謹賀新年
+दिवाळीच्या हार्दिक शुभेच्छा (Happy Diwali)
+शुभ दिपावली (Happy Diwali)
+szczesliwego nowego roku
+feliz ano novo
+feliz ano nuevo
+புத்தாண்டு வாழ்த்துக்கள்
+இனிய தீபாவளி வாழ்த்துக்கள் (Happy Diwali)
+దీపావళి శుభాకాంక్షలు (Happy Diwali)
+สวัสดีปีใหม่
+نیا سال مبارک ہو

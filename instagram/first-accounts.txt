@@ -1,0 +1,24 @@
+// These are the first Instagram accounts and their numeric IDs
+// Use this URL to access the account via numeric ID: https://instagram.com/uid/[ID]
+
+@kevin - 3
+@mikeyk - 4
+@abbott - 5
+@nicole - 6
+[deleted] - 7
+@brow - 8
+@standers - 10
+@m - 11
+@kaitlyn - 12
+@coupleupnow - 13
+@stefkrieger - 14
+@iamxande - 15
+@jec - 16
+@doug - 17
+@mila - 18
+@chris - 19
+@shayne - 20
+@mutt - 22
+@jaredzimmerman - 23
+@tom - 24
+@grex - 25

@@ -1,0 +1,25 @@
+// These are the first Facebook accounts and their numeric ID link
+
+https://www.facebook.com/zuck / https://www.facebook.com/4
+https://www.facebook.com/ChrisHughes / https://www.facebook.com/5
+https://www.facebook.com/moskov / https://www.facebook.com/6
+https://www.facebook.com/arie.hasit / https://www.facebook.com/7
+https://www.facebook.com/marcel / https://www.facebook.com/10
+https://www.facebook.com/soleio / https://www.facebook.com/11
+https://www.facebook.com/putnam / https://www.facebook.com/13
+https://www.facebook.com/amccollum / https://www.facebook.com/26
+https://www.facebook.com/improvite / https://www.facebook.com/27
+https://www.facebook.com/kaganovich / https://www.facebook.com/28
+https://www.facebook.com/andrei.boros.3 / https://www.facebook.com/29
+https://www.facebook.com/tonoaguilar77 / https://www.facebook.com/30
+https://www.facebook.com/zbercu / https://www.facebook.com/31
+https://www.facebook.com/kx / https://www.facebook.com/34
+https://www.facebook.com/colin.jackson.7545 / https://www.facebook.com/35
+https://www.facebook.com/davidjakus / https://www.facebook.com/36
+https://www.facebook.com/dkhammer / https://www.facebook.com/37
+https://www.facebook.com/AlanaVDavis / https://www.facebook.com/38
+https://www.facebook.com/ebonie.hazle / https://www.facebook.com/40
+https://www.facebook.com/saverin / https://www.facebook.com/41
+https://www.facebook.com/joegreen / https://www.facebook.com/42
+https://www.facebook.com/greg.friedman.104 / https://www.facebook.com/44
+https://www.facebook.com/oliviama / https://www.facebook.com/51

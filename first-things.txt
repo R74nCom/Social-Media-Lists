@@ -4,12 +4,17 @@ Instagram:
 Twitter:
     Post: https://twitter.com/jack/status/20
     Account: https://twitter.com/jack / https://twitter.com/i/user/12
+    Tweeted Space: https://twitter.com/i/spaces/1OwxWVljmOnJQ / https://twitter.com/vidmantest13/status/1328971045169106945
+    Birdwatch Note: https://twitter.com/i/birdwatch/n/1352796878438424576
+    Community: https://twitter.com/i/communities/1433240493408722945
+    Live Shop Event: https://twitter.com/i/events/1461640769240854529?timeline=shop
 YouTube:
     Video: https://www.youtube.com/watch?v=jNQXAC9IVRw
     Account: https://www.youtube.com/channel/UC4QobU6STFB0P71PMvOGN5A
     Comment: https://www.youtube.com/watch?v=jNQXAC9IVRw&lc=UgyYZsSJqLMsow_EJud4AaABAg
 Twitch:
     Video: https://www.twitch.tv/videos/47938218
+    Emote: :) / https://static-cdn.jtvnw.net/emoticons/v2/1/static/light/3.0
 Discord:
     User: Stanislav#0001 / https://discord.com/users/21154535154122752
 GitHub:
@@ -30,4 +35,3 @@ The Internet:
     Domain: https://symbolics.com
 Facebook:
     Account: https://www.facebook.com/zuck / https://www.facebook.com/4
-    

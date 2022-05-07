@@ -1,0 +1,19 @@
+// These are the first Twitter accounts and their numeric IDs
+// Use this URL to access the account via numeric ID: https://twitter.com/i/user/[ID]
+
+@jack - 12
+@biz - 13
+@noah - 14
+@crystal - 15
+@jeremy - 16
+@tonystubblebine - 17
+@Adam - 18
+@ev - 20
+@dom - 21
+@rabble - 22
+@timroberts - 23
+@rayreadyray - 31
+@ariel - 34
+@florian - 38
+@drx - 41
+@kellan - 47

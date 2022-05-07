@@ -1,0 +1,47 @@
+// https://www.youtube.com/c/[username]
+a
+b
+d
+e
+f
+g
+h
+i
+k
+l
+n
+o
+p
+q
+r
+s
+t
+u
+y
+z
+2
+4
+5
+6
+7
+8
+0
+
+// https://www.youtube.com/user/[username]
+c
+e
+f
+g
+j
+m
+s
+t
+w
+x
+z [deactivated]
+1
+2
+3
+4
+5
+9

@@ -1,8 +1,38 @@
-bp = Banner Page? URL parameter used to specify the event banner to display on the home page
+YT = YouTube
+YouTuber, YTer, tuber = one who posts videos on YouTube
+video = a post on YouTube, which contains a video, title, description, likes/dislikes, comments, etc.
+desc = video description
+VTuber = virtual YouTuber; a YouTuber that uses a digital avatar instead of showing their face
+sub (verb) = subscribe to a channel
+sub (noun) = a subscriber of a channel
+channel = an account on YouTube; where one's videos are displayed
+subs (noun) = the subscribers of a channel
+sub count = the number of subscribers a channel has
+unsub = to unsubscribe from a channel
+short = a short video type
+like = a positive rating on a video, comment, or community post
+dislike = a negative rating on a video, comment, or community post
+comment = a post replying to a YouTube video, community post, or other comment
+playlist = a curated collection of YouTube videos
+Watch later = a default playlist where the user can add videos they want to watch later
+Liked videos = a default playlist that holds all the videos the user has liked
+notif = notification
+noti gang, notification squad = a group of people who opt in to receiving notifications when a video is posted
+YouTube Poop, YTP = type of meme video that involves mashing up and editing an existing video
+Me at the zoo = the first video ever posted on YouTube
+play button, creator award = an award given by YouTube to a video creator after they reach one of multiple milestones
+Draw My Life = type of video that involves telling the story of one's life through drawings
+let's play = type of video or series that involves playing a video game
+cc = content creator
+CC = closed captions; subtitles that are displayed while a video is played
 
+YouTube Red = the former name of YouTube Premium
+YouTube Premium = subscription service that allows users to watch ad-free videos/songs and download videos for later
+
+[Technical]
+bp = Banner Page? URL parameter used to specify to show the current event banner on the main page
 LL = Liked videos playlist
 WL = Watch later playlist
-
 yt = YouTube
 ytd = Main YouTube CSS class name starter
 ggpht = Google Photos

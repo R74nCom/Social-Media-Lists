@@ -1,0 +1,19 @@
+// This is a list of iMessage message effects
+
+[Bubble Effects]
+Slam - Message falls onto the screen and creates a shockwave
+Loud - Message expands and shakes, then shrinks back to normal size
+Gentle - Text in message starts small, but grows back to normal size
+Invisible Ink - Text in message appears wobbly and unreadable until dragged over
+
+[Screen Effects]
+Echo - Clones of the message float around the screen
+Spotlight - A spotlight is shown over the message while the rest of the screen is darkened
+Balloons - Balloons rise from the bottom of the screen upwards
+Confetti - Confetti falls from the top of the screen
+Love - A heart-shaped balloon is blown up and released from the message bubble
+Lasers - Lasers shoot out in all directiins from the message bubble
+Fireworks - Fireworks explode in the distance
+Celebration - Sparkles fly in from the top right of the screen
+Celebration [Lunar New Year] - Same as Celebration, but message bubble turns red and its text turns yellow
+Shooting Star [Removed] - A shooting star shoots across the screen

@@ -145,10 +145,6 @@ Clip
 	Examples:
 		Elon Musk Saying "And I Stan You" -> UgxhDOoUKXu7QoqNuoN4AaABCQ
 		Official Example Clip -> Ugy_cLL4zv3uhsUupdN4AaABCQ
-Event
-	URL: https://www.youtube.com/?bp=$id
-	Examples:
-		Earth Day 2022 -> wgUCEAE%3D
 TV Episode
 	URL: https://tv.youtube.com/watch/$id
 	Examples:

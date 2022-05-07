@@ -1,0 +1,28 @@
+// These hashtag hashflags are set to not end for a long time.
+
+#periscope: Jan 15, 2016 - Dec 31, 2030
+#lovetwitter: May 12, 2016 - May 12, 3000
+#blacklivesmatter, #blackhistorymonth, #bhm: Jul 8, 2016 - Jul 29, 3000
+#WeMetOnTwitter: Aug 3, 2017 - Aug 3, 3000
+#GrowTogether: Sep 20, 2017 - Sep 18, 3000
+#MyTwitterAnniversary: Sep 21, 2017 - Sep 22, 3000
+#MeToo: Jan 8, 2018 - Jan 8, 3018
+#PersianNewYear, #Nowruz, #نوروز: Mar 23, 2018 - Oct 1, 3018
+#StudentsStandUp: May 31, 2018 - May 30, 3017
+#InclusionIsHappening: Jun 14, 2018 - Jun 14, 2080
+#MeTooIndia: Oct 14, 2018 - Oct 14, 3018
+#NBATwitter: Oct 16, 2018 - Jan 8, 2080
+#VidasNegrasImportam: Feb 19, 2019 - Feb 19, 2219
+#NetNeutrality: Feb 21, 2019 - Dec 31, 3000
+#미투, #스쿨미투: Feb 28, 2019 - Feb 28, 3119
+#NeutralidadDeLaRed: Feb 6, 2020 - Dec 31, 3000
+#EveryWoman: Mar 1, 2020 - Mar 1, 2092
+#DontTellMeHowToDress: Mar 5, 2020 - Mar 5, 2035
+#VidasPretasImportam: Jun 1, 2020 - Feb 19, 2219
+#BlackTransLivesMatter: Jun 24, 2020 - Jan 1, 3000
+#DisabledAndAble: Oct 1, 2020 - Oct 1, 2121
+#Bitcoin, #BTC: Jan 1, 2021 - Jan 1, 3000
+#WNBATwitter: May 13, 2021 - Dec 31, 2307
+#TwitterForGood: May 14, 2021 - Jan 1, 2096
+#CricketTwitter: Sep 16, 2021 - Jan 1, 2100
+#SpacesHost: Sep 20, 2021 - Jan 1, 2100

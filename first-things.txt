@@ -15,6 +15,7 @@ YouTube:
 Twitch:
     Video: https://www.twitch.tv/videos/47938218
     Emote: :) / https://static-cdn.jtvnw.net/emoticons/v2/1/static/light/3.0
+    FrankerFaceZ Emote: ZreknarF / https://www.frankerfacez.com/emoticon/1
 Discord:
     User: Stanislav#0001 / https://discord.com/users/21154535154122752
 GitHub:

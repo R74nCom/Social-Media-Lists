@@ -1,0 +1,16 @@
+// These are official lists promoted by Twitter in the COVID-19 Explore tab.
+// https://twitter.com/explore/tabs/covid-19
+
+COVID-19: Reporters: https://twitter.com/i/lists/1359798799351373825
+COVID-19: Universities: https://twitter.com/i/lists/1360271410615226370
+COVID-19: Lab research: https://twitter.com/i/lists/1359741132142301195
+COVID-19: Med Journals: https://twitter.com/i/lists/1359586593187770371
+COVID-19: Scientists: https://twitter.com/i/lists/1361637474586476544
+AskReuters: COVID Tests: https://twitter.com/i/lists/1328716250311237632
+BI Coronavirus Coverage: https://twitter.com/i/lists/1240261344974299136
+#AskReuters Vaccines: https://twitter.com/i/lists/1349068480587431937
+COVID-19: US officials: https://twitter.com/i/lists/1362063263249272834
+COVID-19: US reporters: https://twitter.com/i/lists/1359827179023069185
+COVID and the Classroom: https://twitter.com/i/lists/1301177909130993665
+Coronavirus: https://twitter.com/i/lists/1233513928858185728
+CDC on Twitter: https://twitter.com/i/lists/13489003

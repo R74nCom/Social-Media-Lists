@@ -1,6 +1,8 @@
 // Twitter Live moments for COVID-19 updates by location
 // https://twitter.com/explore/tabs/covid-19
 
+Global: https://twitter.com/i/events/1219057585707315201
+
 United States: https://twitter.com/i/events/1240677133971644419
 Alaska: https://twitter.com/i/events/1331200827915005954
 Alabama: https://twitter.com/i/events/1328720913425022976
@@ -59,7 +61,6 @@ New South Wales: https://twitter.com/i/events/1405366976071954434
 Victoria: https://twitter.com/i/events/1396989975799861249
 
 Canada: https://twitter.com/i/events/1242887207863472128
-
 Hong Kong: https://twitter.com/i/events/1235630499529277441
 Thailand: https://twitter.com/i/events/1240300661364772864
 South Korea: https://twitter.com/i/events/1233402900467965952

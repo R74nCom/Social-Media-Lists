@@ -1,0 +1,54 @@
+// Twitter Live moments for updates for the 2020 United States presidential election and surrounding elections by location
+// https://twitter.com/TwitterMoments/status/1322266168141426700
+// #Election2020
+
+Alaska: https://twitter.com/i/events/1304082602135924736
+Alabama: https://twitter.com/i/events/1304081315013165057
+Arkansas: https://twitter.com/i/events/1304085189820260352
+Arizona: https://twitter.com/i/events/1304084520317014016
+California: https://twitter.com/i/events/1304085625016967168
+Colorado: https://twitter.com/i/events/1304086401995038720
+Connecticut: https://twitter.com/i/events/1304087233977180160
+Delaware: https://twitter.com/i/events/1304087825839579137
+Florida: https://twitter.com/i/events/1304088146137640960
+Georgia: https://twitter.com/i/events/1304089139537608704
+Hawaii: https://twitter.com/i/events/1304088071449714688
+Iowa: https://twitter.com/i/events/1304088243818823680
+Idaho: https://twitter.com/i/events/1304087718670995457
+Illinois: https://twitter.com/i/events/1304087706205450241
+Indiana: https://twitter.com/i/events/1304087996463894536
+Kansas: https://twitter.com/i/events/1304088509385334784
+Kentucky: https://twitter.com/i/events/1304088798284767233
+Louisiana: https://twitter.com/i/events/1304089048085012481
+Massachusetts: https://twitter.com/i/events/1304088768773677058
+Maryland: https://twitter.com/i/events/1304089179425370113
+Maine: https://twitter.com/i/events/1304089382173814784
+Michigan: https://twitter.com/i/events/1304088385565286401
+Minnesota: https://twitter.com/i/events/1304087193510531078
+Missouri: https://twitter.com/i/events/1304081943248515073
+Mississippi: https://twitter.com/i/events/1304081106753302532
+Montana: https://twitter.com/i/events/1304082277299752960
+North Carolina: https://twitter.com/i/events/1304085795725213696
+North Dakota: https://twitter.com/i/events/1304086097589202946
+Nebraska: https://twitter.com/i/events/1304082773683044352
+New Hampshire: https://twitter.com/i/events/1304083376639418371
+New Jersey: https://twitter.com/i/events/1304083781645529089
+New Mexico: https://twitter.com/i/events/1304084179173343232
+Nevada: https://twitter.com/i/events/1304083024313610246
+New York: https://twitter.com/i/events/1304085139731804160
+Ohio: https://twitter.com/i/events/1304086706174394370
+Oklahoma: https://twitter.com/i/events/1304086846578683904
+Oregon: https://twitter.com/i/events/1304086263436197897
+Pennsylvania: https://twitter.com/i/events/1304085962599800832
+Rhode Island: https://twitter.com/i/events/1304085666871959553
+South Carolina: https://twitter.com/i/events/1304085418405634050
+South Dakota: https://twitter.com/i/events/1304085152553791496
+Tennessee: https://twitter.com/i/events/1304084838887038981
+Texas: https://twitter.com/i/events/1304084589825073152
+Utah: https://twitter.com/i/events/1304084363731021826
+Virginia: https://twitter.com/i/events/1304083775140192256
+Vermont: https://twitter.com/i/events/1304084128564785153
+Washington: https://twitter.com/i/events/1304083400853041154
+Wisconsin: https://twitter.com/i/events/1304082629688344578
+West Virginia: https://twitter.com/i/events/1304083062771216385
+Wyoming: https://twitter.com/i/events/1304081019310465024

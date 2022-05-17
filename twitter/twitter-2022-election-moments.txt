@@ -1,0 +1,52 @@
+// Twitter Live moments for updates for the 2022 United States presidential election and surrounding elections by location
+
+Alaska: 
+Alabama: 
+Arkansas: 
+Arizona: 
+California: 
+Colorado: 
+Connecticut: 
+Delaware: 
+Florida: 
+Georgia: 
+Hawaii: 
+Iowa: 
+Idaho: 
+Illinois: 
+Indiana: https://twitter.com/i/events/1507112010919526422
+Kansas: 
+Kentucky: https://twitter.com/i/events/1512126209257136129
+Louisiana: 
+Massachusetts: 
+Maryland: 
+Maine: 
+Michigan: 
+Minnesota: 
+Missouri: 
+Mississippi: 
+Montana: https://mobile.twitter.com/i/events/1522284894658781184
+North Carolina: https://twitter.com/i/events/1512139271024496654
+North Dakota: 
+Nebraska: 
+New Hampshire: 
+New Jersey: 
+New Mexico: 
+Nevada: 
+New York: 
+Ohio: https://twitter.com/i/events/1508943726239895552
+Oklahoma: 
+Oregon: 
+Pennsylvania: https://twitter.com/i/events/1512495431091048450
+Rhode Island: 
+South Carolina: 
+South Dakota: 
+Tennessee: 
+Texas: 
+Utah: 
+Virginia: 
+Vermont: 
+Washington: 
+Wisconsin: 
+West Virginia: 
+Wyoming: 

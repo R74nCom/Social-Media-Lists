@@ -36,3 +36,8 @@ The Internet:
     Domain: https://symbolics.com
 Facebook:
     Account: https://www.facebook.com/zuck / https://www.facebook.com/4
+Geometry Dash:
+    Level: https://gdbrowser.com/128
+OpenStreetMap:
+    Node: https://www.openstreetmap.org/node/1
+    Changeset: https://www.openstreetmap.org/changeset/1

@@ -218,3 +218,10 @@ Creator Insiders Forum Thread
 	URL: https://www.creatorinsiders.io/forums/Forums/Details/$id
 	Examples:
 		Let's chat! -> 4589b5ff-f415-464a-b300-398f6943489f
+Note
+	URL: https://twitter.com/i/notes/$id
+	Examples:
+		Save the galaxy, eat a porg? -> 1535469588846092288
+		Lying Flat -> 1539613004370788352
+		Welcome to Brown Suga Mama Musings -> 1534297736597618689
+		So, you failed. Now what? -> 1539295299809714178

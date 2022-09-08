@@ -93,6 +93,7 @@ Playlist
 		Live Now -> PLU12uITxBEPHOJO1FU8qll6gQmKcXp5S7
 		Live Now - Gaming -> PLiCvVJzBupKmEehQ3hnNbbfBjLUyvGlqx
 		Live Now - Sports -> PL8fVUTBmJhHKq0MhIplzljtGhHN2E_jk0
+		RELEASED -> RDCLAK5uy_k5n4srrEB1wgvIjPNTXS9G1ufE9WQxhnA
 Trending Topic
 	URL: https://www.youtube.com/feed/trending?bp=$id
 	Examples:

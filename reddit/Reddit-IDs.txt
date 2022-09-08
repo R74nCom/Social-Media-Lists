@@ -113,7 +113,10 @@ RPAN Stream
 	URL: https://www.reddit.com/rpan/$id
 	Examples:
 		Biking from NY to CA -> k101ml
-
+Talk
+	URL: https://www.reddit.com/talk/$id
+	Examples:
+		Mental Health Mondays: Deep Breathing, Understanding, & Healing -> d6972214-9a24-4b92-9c69-6bbcf1cf4eb1
 
 
 

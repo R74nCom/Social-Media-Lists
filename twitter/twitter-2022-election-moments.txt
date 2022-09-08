@@ -1,52 +1,52 @@
 // Twitter Live moments for updates for the 2022 United States presidential election and surrounding elections by location
 
 Alaska: 
-Alabama: 
-Arkansas: 
+Alabama: https://twitter.com/i/events/1512147596881514531
+Arkansas: https://twitter.com/i/events/1514374470550450179
 Arizona: 
-California: 
+California: https://twitter.com/i/events/1519021904165695488
 Colorado: 
-Connecticut: 
+Connecticut: https://twitter.com/i/events/1546925678267813888
 Delaware: 
-Florida: 
-Georgia: 
+Florida: https://twitter.com/i/events/1553107326113943552
+Georgia: https://twitter.com/i/events/1514365283296718851
 Hawaii: 
 Iowa: 
 Idaho: 
-Illinois: 
+Illinois: https://twitter.com/i/events/1529865506202669058
 Indiana: https://twitter.com/i/events/1507112010919526422
 Kansas: 
 Kentucky: https://twitter.com/i/events/1512126209257136129
 Louisiana: 
-Massachusetts: 
-Maryland: 
+Massachusetts: https://twitter.com/i/events/1554601820357423104
+Maryland: https://twitter.com/i/events/1538967963532816384
 Maine: 
-Michigan: 
+Michigan: https://twitter.com/i/events/1546905351039029248
 Minnesota: 
 Missouri: 
 Mississippi: 
-Montana: https://mobile.twitter.com/i/events/1522284894658781184
+Montana: https://twitter.com/i/events/1522284894658781184
 North Carolina: https://twitter.com/i/events/1512139271024496654
 North Dakota: 
 Nebraska: 
 New Hampshire: 
-New Jersey: 
+New Jersey: https://twitter.com/i/events/1522297251606843393
 New Mexico: 
 Nevada: 
-New York: 
+New York: https://twitter.com/i/events/1528890272662188032
 Ohio: https://twitter.com/i/events/1508943726239895552
-Oklahoma: 
+Oklahoma: https://twitter.com/i/events/1529926787353833472
 Oregon: 
 Pennsylvania: https://twitter.com/i/events/1512495431091048450
 Rhode Island: 
-South Carolina: 
+South Carolina: https://twitter.com/i/events/1526680239421550592
 South Dakota: 
-Tennessee: 
-Texas: 
+Tennessee: https://twitter.com/i/events/1546899950079856640
+Texas: https://twitter.com/i/events/1512112695603912711
 Utah: 
-Virginia: 
+Virginia: https://twitter.com/i/events/1526707465504468992
 Vermont: 
 Washington: 
-Wisconsin: 
+Wisconsin: https://twitter.com/i/events/1549118645967527936
 West Virginia: 
 Wyoming: 

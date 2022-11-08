@@ -1,5 +1,7 @@
 // Twitter Live moments for updates for the 2020 United States presidential election and surrounding elections by location
 // https://twitter.com/TwitterMoments/status/1322266168141426700
+//    Thread deleted during 2022 election...
+//    https://web.archive.org/web/20220000000000*/https://twitter.com/TwitterMoments/status/1322266168141426700
 // #Election2020
 
 Alaska: https://twitter.com/i/events/1304082602135924736

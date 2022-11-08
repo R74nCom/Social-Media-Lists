@@ -1,52 +1,72 @@
 // Twitter Live moments for updates for the 2022 United States presidential election and surrounding elections by location
+// https://mobile.twitter.com/explore/tabs/us-elections-2022
+// #Election2022
 
-Alaska: 
+United States: https://twitter.com/i/events/1582015832594386945
+
+Alaska: https://twitter.com/i/events/1535349677008113664
 Alabama: https://twitter.com/i/events/1512147596881514531
 Arkansas: https://twitter.com/i/events/1514374470550450179
-Arizona: 
+Arizona: https://twitter.com/i/events/1546880620600520704
 California: https://twitter.com/i/events/1519021904165695488
-Colorado: 
+Colorado: https://twitter.com/i/events/1528859455462309888
 Connecticut: https://twitter.com/i/events/1546925678267813888
-Delaware: 
+Delaware: https://twitter.com/i/events/1554610382848663552
 Florida: https://twitter.com/i/events/1553107326113943552
 Georgia: https://twitter.com/i/events/1514365283296718851
-Hawaii: 
-Iowa: 
-Idaho: 
+Hawaii: https://twitter.com/i/events/1552420110547136513
+Iowa: https://twitter.com/i/events/1521513614787579905
+Idaho: https://twitter.com/i/events/1509539485410758664
 Illinois: https://twitter.com/i/events/1529865506202669058
 Indiana: https://twitter.com/i/events/1507112010919526422
-Kansas: 
+Kansas: https://twitter.com/i/events/1546892089119494144
 Kentucky: https://twitter.com/i/events/1512126209257136129
-Louisiana: 
+Louisiana: https://twitter.com/i/events/1565330105617903616
 Massachusetts: https://twitter.com/i/events/1554601820357423104
 Maryland: https://twitter.com/i/events/1538967963532816384
-Maine: 
+Maine: https://twitter.com/i/events/1521576060038488064
 Michigan: https://twitter.com/i/events/1546905351039029248
-Minnesota: 
-Missouri: 
-Mississippi: 
+Minnesota: https://twitter.com/i/events/1549103635870601216
+Missouri: https://twitter.com/i/events/1546936245133094912
+Mississippi: https://twitter.com/i/events/1522241547365875713
 Montana: https://twitter.com/i/events/1522284894658781184
 North Carolina: https://twitter.com/i/events/1512139271024496654
-North Dakota: 
-Nebraska: 
-New Hampshire: 
+North Dakota: https://twitter.com/i/events/1523807125016694784
+Nebraska: https://twitter.com/i/events/1506354899243573248
+New Hampshire: https://twitter.com/i/events/1557087157021396994
 New Jersey: https://twitter.com/i/events/1522297251606843393
-New Mexico: 
-Nevada: 
+New Mexico: https://twitter.com/i/events/1525170057193525249
+Nevada: https://twitter.com/i/events/1521625499054739456
 New York: https://twitter.com/i/events/1528890272662188032
 Ohio: https://twitter.com/i/events/1508943726239895552
 Oklahoma: https://twitter.com/i/events/1529926787353833472
-Oregon: 
+Oregon: https://twitter.com/i/events/1512443745098080256
 Pennsylvania: https://twitter.com/i/events/1512495431091048450
-Rhode Island: 
+Rhode Island: https://twitter.com/i/events/1558093424456114178
 South Carolina: https://twitter.com/i/events/1526680239421550592
-South Dakota: 
+South Dakota: https://twitter.com/i/events/1525177677648302080
 Tennessee: https://twitter.com/i/events/1546899950079856640
 Texas: https://twitter.com/i/events/1512112695603912711
-Utah: 
+Utah: https://twitter.com/i/events/1529907726704291842
 Virginia: https://twitter.com/i/events/1526707465504468992
-Vermont: 
-Washington: 
+Vermont: https://twitter.com/i/events/1552414368960090112
+Washington: https://twitter.com/i/events/1547244528926478337
 Wisconsin: https://twitter.com/i/events/1549118645967527936
-West Virginia: 
-Wyoming: 
+West Virginia: https://twitter.com/i/events/1506680169242628097
+Wyoming: https://twitter.com/i/events/1553091109303201793
+
+[Featured Moments]
+Safe and reliable: https://twitter.com/i/events/1517629873421922304
+Preparation: https://twitter.com/i/events/1564741096873177088
+State voting laws: https://twitter.com/i/events/1529159725807415296
+Voter fraud: https://twitter.com/i/events/1517267025248153600
+
+[Other Moments]
+Fact-checkers: https://twitter.com/i/events/1584367399855263744
+Results: https://twitter.com/i/events/1568025201828192256
+
+[Featured Lists]
+2022 Midterms Reporters: https://twitter.com/i/lists/1560691168677068800
+US Elections Analysis: https://twitter.com/i/lists/1204842350033416192
+US Voter Resources: https://twitter.com/i/lists/1507100802401255436
+Fact-Checkers: https://twitter.com/i/lists/1569758960483180544

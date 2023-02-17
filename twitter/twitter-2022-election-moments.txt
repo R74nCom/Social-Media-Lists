@@ -1,5 +1,5 @@
 // Twitter Live moments for updates for the 2022 United States presidential election and surrounding elections by location
-// https://mobile.twitter.com/explore/tabs/us-elections-2022
+// https://twitter.com/explore/tabs/us-elections-2022
 // #Election2022
 
 United States: https://twitter.com/i/events/1582015832594386945

@@ -1,0 +1,23 @@
+Default - https://twitter.com/explore/
+
+For you - https://twitter.com/explore/tabs/for-you
+Trending - https://twitter.com/explore/tabs/trending
+
+Unified:
+News - https://twitter.com/explore/tabs/news_unified
+Sports - https://twitter.com/explore/tabs/sports_unified
+Entertainment - https://twitter.com/explore/tabs/entertainment_unified
+Fun - https://twitter.com/explore/tabs/fun_unified
+
+Sports - https://twitter.com/explore/tabs/sports
+
+Numbered Tabs:
+Local Trends - https://twitter.com/explore/tabs/tab_1
+For You - https://twitter.com/explore/tabs/tab_2
+Sports - https://twitter.com/explore/tabs/tab_4
+
+Temporary:
+COVID-19 - https://twitter.com/explore/tabs/covid-19
+US Elections (2022) - https://twitter.com/explore/tabs/us-elections-2022
+World Cup (2022) - https://twitter.com/explore/tabs/fifa-worldcup-2022
+Brazil Elections (2022) - https://twitter.com/explore/tabs/brazil-elections-2022

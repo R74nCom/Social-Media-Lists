@@ -1,0 +1,71 @@
+Subscript: ~test~
+Strikethrough: ~~test~~
+Code: `test`   ``test``
+
+Code Block:
+```
+test
+
+Empty Code Block: ``` test
+
+Unknown "\(text\)": $test$
+Superscript: ^test^
+Italics: *test* _test_ ""test""
+Bold: **test** __test__
+Bold Italics: ***test*** ___test___
+Bolder: ****test**** ____test____
+Bolder Italics: *****test***** _____test_____
+
+Lists: (You can mix ordered and unordered)
+* item
+  * sub item
+    * sub sub item
++ item
+1. item
+  a. sub item
+a. item
+0. item
+
+Highlighted: ==test==
+Escape Symbols: \" \\
+Unknown: ::test::
+Invisible: >
+Invisible 2: []()
+
+Header 1 (Biggest): # test
+Header 2: ## test
+Header 3: ### test
+Header 4: #### test
+Header 5: ##### test
+Header 6: ###### test
+
+Header 1 (Second way):
+test
+=
+
+Header 2 (Second way):
+test
+-
+
+Block Quote: > test
+
+Multi-Line Block Quote:
+>>> test
+test
+test
+
+Multi-Line Block Quote (Second way):
+> test
+> test
+> test
+
+Protocol Links: <test://test>
+Link to Anything: [](test)
+
+Reference Text Later:
+[a]: lots_of_text_here_
+[a][][a][][a][][a][][a][]
+
+Broken Image: ![test](test)
+Small Square: ![ ]( )
+Invalid Image Icon: ![ ](a)

@@ -1,0 +1,188 @@
+birdwatch.twitter.com
+
+Birdwatch: https://twitter.com/i/birdwatch
+
+Recent Notes: https://twitter.com/i/birdwatch
+https://ton.twimg.com/onboarding/birdwatch/birdwatch-header-3x.png
+Welcome to Birdwatch
+Here you'll find Tweets that have recently received notes from Birdwatch participants.
+See all notes on this Tweet
+This page shows notes on recent Tweets that were Liked or Retweeted more than 500 times. To see all notes, go to Download data.
+
+Your Notes: https://twitter.com/i/birdwatch/u/slweeb
+Want to join?
+Looks like you’re not a part of the Birdwatch pilot program. Join now to help people stay better informed on Twitter.
+Join Birdwatch
+
+Download Data: https://twitter.com/i/birdwatch/download-data
+Birdwatch is built on data transparency
+All Birdwatch contributions are published here daily, so our community has free access to analyze data, identify problems, and spot opportunities to make Birdwatch better. We can’t wait to learn with you.
+Learn how to use and analyze Birdwatch data in [our guide](https://twitter.github.io/birdwatch/data/).
+Data generated on January 25, 2021
+
+About: https://twitter.com/i/birdwatch/about
+Meet Birdwatch
+People want reliable information on what’s happening in the world, and they often come to Twitter to find it. To help our community stay informed, we’re testing out the Birdwatch pilot program, a way for people on Twitter to identify and provide valuable context on misleading information.
+Contributors to Birdwatch sign up to join the pilot program, then can create notes that explain why they think a Tweet is misleading — and include what they believe the correct information is.
+We hope that by empowering our community with the right tools, everyone can be better informed.
+Join Birdwatch
+Learn more
+
+Notes data
+File no.1: https://ton.twitter.com/birdwatch-public-data/notes/RI4GXLX2D1WNLWW8D0IGW3LMMSRFUTWZU4GFSQBKYHI2FQ4ZGWDBJS4KQE44/notes-00000.tsv
+Ratings data
+File no.1: https://ton.twitter.com/birdwatch-public-data/noteRatings/RI4GXLX2D1WNLWW8D0IGW3LMMSRFUTWZU4GFSQBKYHI2FQ4ZGWDBJS4KQE44/ratings-00000.tsv
+
+
+
+@bwatchexample
+Name: Birdwatch Example
+Description: 🐦⌚️
+Joined: 22 January, 2021
+ID: 1352756202984226816
+Profile Picture: https://pbs.twimg.com/profile_images/1352786166529941504/DkOov7UY_400x400.jpg
+First follower: @slweeb
+Followers:
+	31 (25 Jan, 2021 1:32 PM EST)
+	47 (25 Jan, 2021 1:41 PM EST)
+	190 (25 Jan, 2021 4:45 PM EST)
+Following:
+	0 (25 Jan, 2021 4:47 PM EST)
+
+
+
+https://twitter.com/bwatchexample/status/1352796618504892420
+Coming from the mayor’s office soon. They want to convert all of our water fountains from still to sparkling!
+https://pbs.twimg.com/media/EsYZRWoVkAAFpxe?format=png&name=small
+8:53 PM · Jan 22, 2021·Twitter Web App
+
+
+https://twitter.com/bwatchexample/status/1353416445296668673
+The nutrition labels on my food are lying! Using an at-home science kit, the food I expected to be 100 calories is actually 100,000!!! 
+
+We’re being lied to!
+1:56 PM · Jan 24, 2021·Twitter Web App
+
+
+https://twitter.com/bwatchexample/status/1353736772459532293
+Whales are not actually mammals. If Humans (land mammals) can’t drink seawater — just try it! — how can supposed sea mammals like whales stay hydrated?
+11:09 AM · Jan 25, 2021·Twitter Web App
+
+
+
+
+Example notes for tweet 1352796618504892420:
+(Times and dates in EST)
+https://twitter.com/i/birdwatch/t/1352796618504892420
+
+@example_wren · Jan 24, 2021 · 01:54 PM · ID: 1353415873227177985
+Misinformed, or potentially misleading
+This is an actual press release, but from an April Fools day joke the city played last year. No sparkling water soon. See the city paper’s coverage of the joke: http://localnewssource...
+
+@example_owl · Jan 22, 2021 · 08:54 PM · ID: 1352796878438424576
+Misinformed, or potentially misleading
+This Tweet is partially true, but misleading. A look at the city archives shows that the image in the Tweet actually comes from a planned april fools day prank.
+
+Here’s the city hall press release in the archives: http://officialsource... 
+
+
+
+
+
+
+@example_wren
+Name: Birdwatch Example
+Description: hi
+Joined: 22 January, 2021
+ID: 1352757350231281664
+Profile Picture: https://pbs.twimg.com/profile_images/1352785955820720128/6Yt-uvWg_400x400.jpg
+Followers:
+	7 (25 Jan, 2021 2:01 PM EST)
+	11 (25 Jan, 2021 4:46 PM EST)
+Following:
+	0 (25 Jan, 2021 4:47 PM EST)
+
+
+@example_owl
+Name: Birdwatch Example
+Description: 😁
+Joined: 22 January, 2021
+ID: 1352756883862429696
+Profile Picture: https://pbs.twimg.com/profile_images/1352786012582211585/P5RJ-Es4_400x400.jpg
+Followers:
+	6 (25 Jan, 2021 2:02 PM EST)
+	8 (25 Jan, 2021 4:46 PM EST)
+Following:
+	0 (25 Jan, 2021 4:47 PM EST)
+
+
+
+
+
+
+
+https://web.archive.org/web/20210125190405/https://twitter.com/bwatchexample
+https://web.archive.org/web/20210125190405/http://web.archive.org/screenshot/https://twitter.com/bwatchexample
+https://web.archive.org/web/20210125190418/https://pbs.twimg.com/profile_images/1352786166529941504/DkOov7UY.jpg
+https://web.archive.org/web/20210125190440/https://twitter.com/bwatchexample/status/1353736772459532293
+https://web.archive.org/web/20210124185654/https://twitter.com/bwatchexample/status/1353416445296668673
+https://web.archive.org/web/20210124185654/https://twitter.com/bwatchexample/status/1352796618504892420
+
+
+
+https://web.archive.org/web/20210125190531/https://twitter.com/example_wren
+https://web.archive.org/web/20210125190531/http://web.archive.org/screenshot/https://twitter.com/example_wren
+https://web.archive.org/web/20210125190617/https://twitter.com/example_owl
+https://web.archive.org/web/20210125190617/http://web.archive.org/screenshot/https://twitter.com/example_owl
+https://web.archive.org/web/20210125190010/https://twitter.com/birdwatch
+https://web.archive.org/web/20210125190010/http://web.archive.org/screenshot/https://twitter.com/birdwatch
+
+
+
+
+
+
+@birdwatch
+Name: Birdwatch
+Description: Empowering the Twitter community to create a better-informed world.
+
+Questions? Tweet/DM us.
+URL: birdwatch.twitter.com
+Joined: 21 October, 2020
+Birthday: 25 January, 2021
+ID: 1319036828964454402
+Profile Picture: https://pbs.twimg.com/profile_images/1353748895931592710/P2aggE-E_400x400.jpg
+Followers:
+	1636 (25 Jan, 2021 1:37 PM EST)
+	9258 (25 Jan, 2021 4:47 PM EST)
+	9301 (25 Jan, 2021 4:48 PM EST)
+
+Deleted tweets from @birdwatch:
+https://twitter.com/birdwatch/status/1353772472768851969 (replaced with 1353774171684106243)
+https://twitter.com/birdwatch/status/1353772475449036800 (replaced with 1353774172699152386)
+https://twitter.com/birdwatch/status/1353772477181272065 (replaced with 1353774173395402759)
+https://twitter.com/birdwatch/status/1353772480557678594 (replaced with 1353774174255390721)
+https://twitter.com/birdwatch/status/1353772482306711552 (replaced with 1353774175207313409)
+https://twitter.com/birdwatch/status/1353772483804016646 (replaced with 1353774175974875137)
+1:31 PM · Jan 25, 2021·Sprinklr
+---
+Hi! We’re the team building Birdwatch. 
+
+We believe that a transparent, community-driven approach to identifying misleading information and elevating helpful context can help us all create a better-informed world.
+---
+Why? We know people want to stay informed and it can be hard in the face of spreading misleading information. Today Twitter adds labels and context to some Tweets. We want to bring more voices to the table to help determine when context should be added and what it should say.
+---
+We believe this approach has the potential to respond quickly when misleading information spreads, adding context that people trust and find valuable.
+---
+We’re building Birdwatch in public. As a community-driven system, it should be shaped by the community. We’ve taken steps to make Birdwatch transparent: Birdwatch data and its algorithms will be shared publicly so people can help improve them.
+
+Learn more: http://twitter.github.io/birdwatch
+---
+This is an ambitious goal and we can’t do it without your help. Along the way we’ll use this handle to share product updates, the thinking behind them, learnings from the pilot, and to talk directly with the Birdwatch community.
+---
+Want to help create a better informed world? Sign up and help us shape Birdwatch: https://twitter.com/i/flow/join-birdwatch
+
+Our DMs are open, and feel free to @ us any time 😊
+---
+
+

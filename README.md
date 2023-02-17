@@ -9,5 +9,5 @@ Over time, it will include many more lists, glossaries, and other compilations.
 
 ## Interesting files:
 * [first-things.txt](first-things.txt) - A list of first entries on various social media platforms.
-* [twitter-covid-19-moments.txt](twitter-covid-19-moments.txt) - A list of COVID-19 live Twitter moments by location.
+* [twitter/twitter-covid-19-moments.txt](twitter-covid-19-moments.txt) - A list of COVID-19 live Twitter moments by location.
 * [todo.md](todo.md) - A list of things left to do for this repo.

@@ -1,0 +1,25 @@
+// These accounts once had no username. This was eventually fixed in 2021 and the accounts were given random usernames.
+// Oddly, most of them had the display name "Mysteriously Unnamed".
+// One account changing its display name likely changed the others: https://twitter.com/Mysteri35479390/status/1778328649
+
+id,new_username
+14599086,Mysteri80849726
+34186397,Mysteri23590027
+34190831,Mysteri38415382
+34194611,Mysteri62883144
+34195071,Mysteri83556476
+34196498,Mysteri55476735
+34197628,Mysteri05236913
+34197629,Mysteri47231558
+34197677,Mysteri08816532
+34198598,Mysteri35479390
+34200291,Mysteri90575956
+34201458,Mysteri44716086
+34215264,Mysteri67023030
+34472202,Mysteri51830302
+34533902,Mysteri71438949
+34538062,Mysteri33400288
+34543762,Mysteri10007748
+34549382,Mysteri43096939
+71996998,oJaKss7FV37SMVl
+996149405551026176,Kw4Ts8s3xTkOvsl

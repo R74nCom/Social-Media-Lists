@@ -16,6 +16,7 @@ Major additions under Elon Musk:
 - Advertisements in Tweet replies
 - Longer videos (Twitter Blue)
 - Showing views (Previously already tracked)
+- Multiple GIFs and videos in a single Tweet
 
 Minor and Policy Changes:
 - Rule updates
@@ -26,7 +27,9 @@ Minor and Policy Changes:
     - The Babylon Bee
     - Jordan Peterson
     - Kanye West, re-banned
+    - Appeal Form: https://help.twitter.com/en/forms/account-access/appeals/redirect
 - Renamed Birdwatch to Community Notes
+- Renamed Super Follows to Subscriptions
 - Bookmark button under Tweet (Bookmarks already existed)
 - 'B' keyboard shortcut to Bookmark on Web
 - '0' and capital 'I' font distinctions
@@ -34,6 +37,7 @@ Minor and Policy Changes:
 - "Hashfetti", hashflags that rain down
 - TradingView stock chart embeds in search ($TSLA, etc.)
 - Verified notifications tab for non-verified users
+- Smaller text size on Web
 
 Removed:
 - Explore Tabs (News, Entertainment, Sports, COVID-19)
@@ -44,6 +48,7 @@ Removed:
 - Many official accounts no longer Tweeting (@TwitterMoments, @TwitterOneTeam, @TwitterFaith, many others)
 - Birdwatch Discord no longer maintained by staff
 - Twitter for SMS
+- Non-advertisers creating Moments
 
 Released, developed before Elon Musk:
 These features were already publicly being developed before Elon Musk, but he took credit for them.
@@ -52,6 +57,7 @@ These features were already publicly being developed before Elon Musk, but he to
 - Bookmark folders (Twitter Blue)
 - Long-form Tweets (4000 characters, Twitter Blue)
 - CoTweets (https://help.twitter.com/en/using-twitter/cotweets)
+- New glossy Twemoji set and sticker picker
 
 Planned:
 - Stepping down as CEO (https://twitter.com/elonmusk/status/1604617643973124097)
@@ -77,3 +83,4 @@ Walked Back:
 - Bringing back old Tweet image cropping
 - Polls for all major policy changes (https://twitter.com/elonmusk/status/1604616863673208832)
 - Suspension of @joinmastodon
+- 'Official' label under display names

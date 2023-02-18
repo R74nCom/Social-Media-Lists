@@ -12,7 +12,7 @@ Major additions under Elon Musk:
     - Old non-brand and non-government checks turn to "Legacy" badges
 - Square profile pictures for brands
 - Twitter Blue price changes ($3 -> $8, $13 on mobile)
-- Force "For you" tab on the main page
+- Force "For you" tab on the main page (Tab bar already existed)
 - Advertisements in Tweet replies
 - Longer videos (Twitter Blue)
 - Showing views (Previously already tracked)
@@ -33,6 +33,7 @@ Minor and Policy Changes:
 - Rename "Quote Tweets" to "Quotes"
 - "Hashfetti", hashflags that rain down
 - TradingView stock chart embeds in search ($TSLA, etc.)
+- Verified notifications tab for non-verified users
 
 Removed:
 - Explore Tabs (News, Entertainment, Sports, COVID-19)
@@ -42,6 +43,7 @@ Removed:
 - Tweet source labels (Twitter for iPhone, Twitter for Android, etc.)
 - Many official accounts no longer Tweeting (@TwitterMoments, @TwitterOneTeam, @TwitterFaith, many others)
 - Birdwatch Discord no longer maintained by staff
+- Twitter for SMS
 
 Released, developed before Elon Musk:
 These features were already publicly being developed before Elon Musk, but he took credit for them.

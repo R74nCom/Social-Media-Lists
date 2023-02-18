@@ -1,0 +1,77 @@
+Looking into it
+This is a list of changes and removals after Elon Musk's acquisition of Twitter, sometimes called 'Twitter 2.0'.
+
+Layoffs: 4,800+
+
+Major additions under Elon Musk:
+- New verification badges
+    - Gold (Brands)
+    - Blue (Twitter Blue, Paid)
+    - Gray (Government, previously already categorized)
+    - Affiliate Icons / Verified Organizations (https://business.twitter.com/en/form/verified-organizations.html)
+    - Old non-brand and non-government checks turn to "Legacy" badges
+- Square profile pictures for brands
+- Twitter Blue price changes ($3 -> $8, $13 on mobile)
+- Force "For you" tab on the main page
+- Advertisements in Tweet replies
+- Longer videos (Twitter Blue)
+- Showing views (Previously already tracked)
+
+Minor and Policy Changes:
+- Rule updates
+    - No "doxxing" live locations
+- ElonJet ban
+- Mass unbans of accounts. Notably:
+    - Donald Trump
+    - The Babylon Bee
+    - Jordan Peterson
+    - Kanye West, re-banned
+- Renamed Birdwatch to Community Notes
+- Bookmark button under Tweet (Bookmarks already existed)
+- 'B' keyboard shortcut to Bookmark on Web
+- '0' and capital 'I' font distinctions
+- Rename "Quote Tweets" to "Quotes"
+- "Hashfetti", hashflags that rain down
+- TradingView stock chart embeds in search ($TSLA, etc.)
+
+Removed:
+- Explore Tabs (News, Entertainment, Sports, COVID-19)
+- Third-party client support (Tweetbot, Twitterrific, etc.)
+- Trend context/descriptions
+- Revue newsletters
+- Tweet source labels (Twitter for iPhone, Twitter for Android, etc.)
+- Many official accounts no longer Tweeting (@TwitterMoments, @TwitterOneTeam, @TwitterFaith, many others)
+- Birdwatch Discord no longer maintained by staff
+
+Released, developed before Elon Musk:
+These features were already publicly being developed before Elon Musk, but he took credit for them.
+- Twitter Blue (Existed beforehand, improved/rebranded)
+- Edit Tweet (Twitter Blue)
+- Bookmark folders (Twitter Blue)
+- Long-form Tweets (4000 characters, Twitter Blue)
+- CoTweets (https://help.twitter.com/en/using-twitter/cotweets)
+
+Planned:
+- Stepping down as CEO (https://twitter.com/elonmusk/status/1604617643973124097)
+- "Bringing back Vine"
+- Requiring Blue for SMS 2FA
+- Removal of Legacy checkmarks
+- Twitter Blue reply priority
+- Twitter Blue shown half advertisements
+- ID verification
+- Twitter Blue-only polls
+- Tweet Awards (Mind Blown, Bravo, Super Like, Helpful, Bullseye, Hilarious, Gem, Crown, Rose, Bronze, Silver, Gold)
+    - Twitter Coins
+- Freeing up inactive usernames
+
+Planned to Release (but previously developed):
+- Twitter Write
+- End-to-end encrypted DMs
+- Tweet statuses
+
+Walked Back:
+- Banning links to other social media platforms
+- Limiting free API access
+- Bringing back old Tweet image cropping
+- Polls for all major policy changes (https://twitter.com/elonmusk/status/1604616863673208832)
+- Suspension of @joinmastodon

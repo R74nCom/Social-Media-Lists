@@ -49,6 +49,8 @@ Removed:
 - Birdwatch Discord no longer maintained by staff
 - Twitter for SMS
 - Non-advertisers creating Moments
+- Twemoji DM reactions (now uses native emoji)
+- Twemoji on Android app (now uses native emoji)
 
 Released, developed before Elon Musk:
 These features were already publicly being developed before Elon Musk, but he took credit for them.

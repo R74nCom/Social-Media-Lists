@@ -225,3 +225,15 @@ Note
 		Lying Flat -> 1539613004370788352
 		Welcome to Brown Suga Mama Musings -> 1534297736597618689
 		So, you failed. Now what? -> 1539295299809714178
+Developers Forum Category
+	URL: https://twittercommunity.com/c/_/$id
+	Examples:
+		Announcements -> 22
+		Publisher Tools -> 41
+		Uncategorized (NOT USED) -> 1
+		Twitter API v2 -> 65
+Developers Forum Topic
+	URL: https://twittercommunity.com/t/_/$id
+	Examples:
+		Help shape the future of the Account Activity API -> 176249
+		Troubleshooting OAuth 1.0A -> 231

@@ -1,0 +1,8 @@
+format	description
+<t:123456789:d>	Month/Day/Year
+<t:123456789:f>	Month Day, Year Time
+<t:123456789:t>	Time
+<t:123456789:D>	Month Day, Year
+<t:123456789:F>	Weekday, Month Day, Year Time
+<t:123456789:R>	Time since
+<t:123456789:T>	Hours:Minutes:Seconds

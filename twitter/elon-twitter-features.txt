@@ -40,7 +40,6 @@ Minor and Policy Changes:
 - Smaller text size on Web
 
 Removed:
-- Explore Tabs (News, Entertainment, Sports, COVID-19)
 - Third-party client support (Tweetbot, Twitterrific, etc.)
 - Trend context/descriptions
 - Revue newsletters
@@ -51,6 +50,7 @@ Removed:
 - Non-advertisers creating Moments
 - Twemoji DM reactions (now uses native emoji)
 - Twemoji on Android app (now uses native emoji)
+- Liked Tweet page after clicking like notification
 
 Released, developed before Elon Musk:
 These features were already publicly being developed before Elon Musk, but he took credit for them.
@@ -86,3 +86,4 @@ Walked Back:
 - Polls for all major policy changes (https://twitter.com/elonmusk/status/1604616863673208832)
 - Suspension of @joinmastodon
 - 'Official' label under display names
+- Removing Explore tabs (News, Entertainment, Sports, COVID-19)

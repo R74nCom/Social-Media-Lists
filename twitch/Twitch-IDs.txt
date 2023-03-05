@@ -121,6 +121,8 @@ User Numeric ID
 		HasanAbi -> 207813352
 		FIatEarth -> 195736748
 		dane -> 1214
+		AnAnonymousGifter -> 274598607
+		AnAnonymousCheerer -> 407665396
 Team
 	URL: https://www.twitch.tv/team/$id
 	Regex: [a-zA-Z0-9\-_]+

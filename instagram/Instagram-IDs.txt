@@ -57,11 +57,12 @@ Highlight
 		google -> 17870375656968501
 		instagram -> 17872590965002596
 Guide
-	URL: https://www.instagram.com/$username/guide/$id/
+	URL:
+		https://www.instagram.com/_/guide/_/$id
 	Examples:
-		Act for Racial Justice -> act-for-racial-justice/17903566507475316
-		Take Charge -> take-charge-create-a-positive-instagram-experience/17865134450117820
-		The Pods -> the-pods/17920882021483161
+		Act for Racial Justice -> 17903566507475316
+		Take Charge -> 17865134450117820
+		The Pods -> 17920882021483161
 Location
 	URL: https://www.instagram.com/explore/locations/$id/
 	Examples:
@@ -112,9 +113,19 @@ Professional Account Category
 		Portable Toilet Rentals -> 133886996679184
 		Politician -> 1700
 		School -> 2601
+Channel
+	URL:
+		https://www.instagram.com/j/$id/
+		https://ig.me/j/$id/
+	Examples:
+		Meta Channel 📢 -> AbZ19cL4AVphbig9
+		IG Updates 👀 -> AbZTKoOURuXfh8e4
+Saved Collection:
+	URL: https://www.instagram.com/$username/saved/_/$id/
+	Examples:
+		??? -> 17952779098307580
 
 #Waiting for desktop:
-#Saved Collection
 #Effect Category
 #On This Day
 #Archive

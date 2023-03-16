@@ -38,6 +38,8 @@ Minor and Policy Changes:
 - TradingView stock chart embeds in search ($TSLA, etc.)
 - Verified notifications tab for non-verified users
 - Smaller text size on Web
+- Updated the 🥺 emoji
+- For You page no longer shows why a Tweet is on your timeline
 
 Removed:
 - Third-party client support (Tweetbot, Twitterrific, etc.)
@@ -51,6 +53,7 @@ Removed:
 - Twemoji DM reactions (now uses native emoji)
 - Twemoji on Android app (now uses native emoji)
 - Liked Tweet page after clicking like notification
+- Twitter Toolbox
 
 Released, developed before Elon Musk:
 These features were already publicly being developed before Elon Musk, but he took credit for them.

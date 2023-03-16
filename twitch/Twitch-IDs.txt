@@ -17,7 +17,7 @@ Category / Game
 		Makers & Crafting -> Makers & Crafting
 		Beauty & Body Art -> Beauty & Body Art
 		Pools, Hot Tubs, and Beaches -> Pools, Hot Tubs, and Beaches
-Stream Tag
+Stream Tag (Deprecated)
 	URL: https://www.twitch.tv/directory/all/tags/$id
 	Regex: [a-zA-Z0-9]+\-[a-zA-Z0-9\-]+
 	Examples:
@@ -26,6 +26,15 @@ Stream Tag
 		Japanese -> 6ba1d230-e52f-4d81-b1e0-41f25a8a9f5d
 		Game Show -> 6a0c6ea2-84eb-42b1-a8bb-59fd684bfe1a
 		English -> 6ea6bca4-4712-4ab9-a906-e3336a9d8039
+Stream Tag (Custom)
+	URL: https://www.twitch.tv/directory/all/tags/$id
+	Examples:
+		Mario Day -> MarioDay
+		Mar10 Day -> Mar10Day
+		mar10 -> mar10
+		420 -> 420
+		Good Vibes -> GoodVibes
+		English -> English
 Category Tag
 	URL: https://www.twitch.tv/directory/tags/$id
 	Regex: [a-zA-Z0-9]+\-[a-zA-Z0-9\-]+
@@ -163,6 +172,15 @@ Collection
 		TwitchCon 2019 San Diego -> eMybriFryRWpiQ
 		TwitchCon 2018 -> QA6Amns-YRUdIA
 		TwitchCon 2017 -> ENEluEecxRTw1g
+Directory Collection
+	URL: https://www.twitch.tv/directory/collection/$id
+	Examples:
+		Have a Super Mario Day -> mario-day
+		Recently Released Games' Streams -> recently-released-games-streams
+		Streamers using Guest Star -> guest-star
+		Verified Charity Streams -> verified-charity
+		Pro Players -> pro-players
+		Drops Enabled -> drops-enabled
 Extension
 	URL: https://dashboard.twitch.tv/extensions/$id
 	Regex: [a-z0-9]+

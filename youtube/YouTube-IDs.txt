@@ -9,6 +9,7 @@ Video
 		Me at the zoo -> jNQXAC9IVRw
 		YouTube Answers: Ads & Advertising -> jF--uLxtYlo
 		The Making of YouTube -> X2N_V2dfS1U
+		YouTube is not currently available on this device. -> 9xp1XWmJ_Wo
 Thumbnail
 	URL:
 		https://i.ytimg.com/vi/$video/hqdefault.jpg

@@ -15,8 +15,9 @@ Major additions under Elon Musk:
 - Force "For you" tab on the main page (Tab bar already existed)
 - Advertisements in Tweet replies
 - Longer videos (Twitter Blue)
-- Showing views (Previously already tracked)
+- Public view counts on Tweets (Previously already tracked)
 - Multiple GIFs and videos in a single Tweet
+- Bookmark counts on Tweets
 
 Minor and Policy Changes:
 - Rule updates

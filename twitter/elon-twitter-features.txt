@@ -41,6 +41,7 @@ Minor and Policy Changes:
 - Smaller text size on Web
 - Updated the 🥺 emoji
 - For You page no longer shows why a Tweet is on your timeline
+- @HelpfulNotes, automated account posting helpful Community Notes (1601029807604527106)
 
 Removed:
 - Third-party client support (Tweetbot, Twitterrific, etc.)

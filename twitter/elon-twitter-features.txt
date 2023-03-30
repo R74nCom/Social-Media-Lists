@@ -78,6 +78,9 @@ Planned:
 - Tweet Awards (Mind Blown, Bravo, Super Like, Helpful, Bullseye, Hilarious, Gem, Crown, Rose, Bronze, Silver, Gold)
     - Twitter Coins
 - Freeing up inactive usernames
+- Only Twitter Blue users can vote in polls
+- For You shows only Twitter Blue and followed users
+- Legacy verification deprecation
 
 Planned to Release (but previously developed):
 - Twitter Write

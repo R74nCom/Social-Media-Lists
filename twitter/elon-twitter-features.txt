@@ -18,6 +18,7 @@ Major additions under Elon Musk:
 - Public view counts on Tweets (Previously already tracked)
 - Multiple GIFs and videos in a single Tweet
 - Bookmark counts on Tweets
+- Publication of "The Algorithm" (https://github.com/twitter/the-algorithm)
 
 Minor and Policy Changes:
 - Rule updates

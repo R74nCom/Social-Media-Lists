@@ -43,6 +43,7 @@ Minor and Policy Changes:
 - Updated the 🥺 emoji
 - For You page no longer shows why a Tweet is on your timeline
 - @HelpfulNotes, automated account posting helpful Community Notes (1601029807604527106)
+- Doge replacing the Twitter logo on Web
 
 Removed:
 - Third-party client support (Tweetbot, Twitterrific, etc.)
@@ -57,6 +58,7 @@ Removed:
 - Twemoji on Android app (now uses native emoji)
 - Liked Tweet page after clicking like notification
 - Twitter Toolbox
+- Distinction between legacy and Blue verified accounts
 
 Released, developed before Elon Musk:
 These features were already publicly being developed before Elon Musk, but he took credit for them.

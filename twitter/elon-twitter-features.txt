@@ -44,6 +44,8 @@ Minor and Policy Changes:
 - For You page no longer shows why a Tweet is on your timeline
 - @HelpfulNotes, automated account posting helpful Community Notes (1601029807604527106)
 - Doge replacing the Twitter logo on Web
+- "Government-funded Media" state-affiliated label variant (NPR, VoA, PBS), also called "Government Funded Media" for a short time
+- "Publicly funded media" state-affiliated label variant (BBC)
 
 Removed:
 - Third-party client support (Tweetbot, Twitterrific, etc.)

@@ -19,6 +19,7 @@ Major additions under Elon Musk:
 - Multiple GIFs and videos in a single Tweet
 - Bookmark counts on Tweets
 - Publication of "The Algorithm" (https://github.com/twitter/the-algorithm)
+- Renaming Twitter Inc. to X Corp
 
 Minor and Policy Changes:
 - Rule updates
@@ -61,6 +62,7 @@ Removed:
 - Liked Tweet page after clicking like notification
 - Twitter Toolbox
 - Distinction between legacy and Blue verified accounts
+- Legacy Verified badges
 
 Released, developed before Elon Musk:
 These features were already publicly being developed before Elon Musk, but he took credit for them.
@@ -85,7 +87,6 @@ Planned:
 - Freeing up inactive usernames
 - Only Twitter Blue users can vote in polls
 - For You shows only Twitter Blue and followed users
-- Legacy verification deprecation
 
 Planned to Release (but previously developed):
 - Twitter Write

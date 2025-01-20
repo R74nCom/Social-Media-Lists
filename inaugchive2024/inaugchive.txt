@@ -1,0 +1,55 @@
+Archive of usernames and numeric user IDs for US government officials and their changes after presidential inaugurations.
+
+https://twitter.com/i/user/$1
+
+== Twitter / X ==
+PresElectBiden > POTUS > POTUS46Archive: 1349149096909668363
+SenKamalaHarris > VP > VP46Archive: 803694179079458816
+SecondGentleman > SecondGent46: 1349175483989188608
+Transition46 > WhiteHouse > WhiteHouse46: 1323730225067339784
+FLOTUSBiden > FLOTUS > FLOTUS46Archive: 1349154719386775552
+BidenHQ > KamalaHQ: 3315264553
+PressSec > PressSec46: 1349170292564905988
+WHCommsDir > WHCommsDir46: 1351302423273472012
+WHCOVIDResponse > WHCOVIDRes46: 1352064843432472578
+WhiteHouseCEA > WHCEA46Archive: 1356633759123197956
+SecretaryPete: 1356958547603513346
+WHCOS > WHCHOS46Archive: 1351284403801108481
+
+[UNINVOLVED BYSTANDER] transition47 > transition47_: 1325429164346904583
+[UNINVOLVED BYSTANDER] whitehouse46 > WhiteHouse460_: 77171420
+[UNINVOLVED BYSTANDER] FirstGentleman: 19215178
+[UNINVOLVED BYSTANDER] PresElectHarris: 1345593207699238912
+[UNINVOLVED BYSTANDER] firstlady: 6742072
+
+secondlady: doesn't exist
+
+[New] transition47: 1852085249401827328
+[New] POTUS: 1879650942410481666
+[New] VP: 1879652428490149888
+[New] WhiteHouse: 1879644163769335808
+[New] FLOTUS: 1879651867288018944
+[New] PressSec: 1879670389057474560
+
+
+== TikTok ==
+bidenhq > kamalahq: 7334124418954200106
+kamalaharris
+
+
+== Instagram ==
+potus > potus46archive: 45248996870
+vp > vp46archive: 45610096595
+flotus > flotus46archive: 45223511447
+secondgentleman > secondgentleman46archive: 45075195305
+bidenharrishq > kamalahq: 62180494836
+
+[New] potus: 72066633030
+[New] vp: 71715577023
+[New] flotus: 72016781038
+
+
+== Truth Social ==
+BidenHQ > KamalaHQ
+
+

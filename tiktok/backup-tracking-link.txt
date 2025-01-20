@@ -1,0 +1,3 @@
+TikTok copies a URL like this when a tracking link cannot be generated, like during the January 2025 shutdown.
+
+https://www.tiktok.com/@r74n.com/video/7453147085714492702?_r=1&u_code=eg0kah5lefm75g&preview_pb=0&sharer_language=en&_d=eb0572a071bhd5&share_item_id=7453147085714492702&source=h5_m&timestamp=1737259550&ug_btm=b5836,b2001&sec_user_id=MS4wLjABAAAASfsRDf-DWTOxK51KvegQzT-DQ3BPX-Z56f09vcts0i_aVbOQ3DLWd5ziX8bPO3F5&utm_source=copy&social_share_type=0&utm_campaign=client_share&utm_medium=ios&tt_from=copy&user_id=7407990951287964714&share_link_id=4BC01B8C-5E37-44B7-96FB-C9250A56C6BF&share_app_id=1233
